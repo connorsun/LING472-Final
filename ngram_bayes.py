@@ -1,4 +1,5 @@
 import string
+import time
 from os import listdir
 from os.path import isfile, join
 import numpy as np
@@ -99,35 +100,27 @@ class NaiveBayes:
         file = open(filename, "r", encoding="ISO-8859-1")
         total_log_ham = np.log(self.hamNgrams_total / (self.hamNgrams_total + self.spamNgrams_total))
         total_log_spam = np.log(self.spamNgrams_total / (self.hamNgrams_total + self.spamNgrams_total))
-
-        build = ""
-        spamBuilder = []
         for line in file:
             translating = str.maketrans('', '', string.punctuation)
             line = line.translate(translating)
             line = line.strip().lower()
             line = line.replace('subject', '')
-            build = build + " " + line
-        spamBuilder.append(build)
-        file.close()
-
-        vectorizer = CountVectorizer(ngram_range=(1, self.n))
-        vectorizer.fit(spamBuilder)  # build ngram dictionary
-        word = vectorizer.transform(spamBuilder)  # get ngram
-        ngrams = vectorizer.vocabulary_
-
-        for ngram in ngrams:
-            total_log_ham += np.log((self.hamNgrams.get(ngram, 0) + 1) / (self.hamNgrams_total + 2))
-            total_log_spam += np.log((self.spamNgrams.get(ngram, 0) + 1) / (self.spamNgrams_total + 2))
-
+            vectorizer = CountVectorizer(ngram_range=(1, self.n))
+            analyzer = vectorizer.build_analyzer()
+            ngrams = analyzer(line)
+            for ngram in ngrams:
+                total_log_ham += np.log((self.hamNgrams.get(ngram, 0) + 1) / (self.hamNgrams_total + 2))
+                total_log_spam += np.log((self.spamNgrams.get(ngram, 0) + 1) / (self.spamNgrams_total + 2))
         # print("file done")
         return total_log_spam > total_log_ham
 
 
 if __name__ == "__main__":
+    ts = time.time()
     for n in range(1, 6):
         nb = NaiveBayes()
         nb.n = n
         nb.get_training_files()
         accuracy = nb.test()
         print("accuracy for n = " + str(nb.n) + " " + str(accuracy))
+    print("time taken " + str(time.time() - ts))
