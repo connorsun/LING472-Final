@@ -1,5 +1,6 @@
 from os import listdir
 from os.path import isfile, join
+import numpy as np
 
 class NaiveBayes:
     def __init__(self):
@@ -34,13 +35,42 @@ class NaiveBayes:
                 for token in tokens:
                     spam_freq[token] = spam_freq.setdefault(token, 0) + 1
             file.close()
-        self.ham_total = ham_total
+        self.ham_total = float(ham_total)
         self.ham_freq = ham_freq
-        self.spam_total = spam_total
+        self.spam_total = float(spam_total)
         self.spam_freq = spam_freq
+    
+    def test(self):
+        TEST_SPAM_PATH = "./enron2/spam"
+        TEST_HAM_PATH = "./enron2/ham"
+        TEST_SPAM_FILES = [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if isfile(join(TEST_SPAM_PATH, file))]
+        TEST_HAM_FILES = [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if isfile(join(TEST_HAM_PATH, file))]
+        correct = 0
+        total = 0
+        for ham_file in TEST_HAM_FILES:
+            if not self.predict(ham_file):
+                correct += 1
+            total += 1
+        for spam_file in TEST_SPAM_FILES:
+            if self.predict(spam_file):
+                correct += 1
+            total += 1
+        return float(correct)/total
+
+
+    def predict(self, filename):
+        file = open(filename, "r", encoding="ISO-8859-1")
+        total_log_ham = np.log(self.ham_total/(self.ham_total + self.spam_total))
+        total_log_spam = np.log(self.spam_total/(self.ham_total + self.spam_total))
+        for line in file:
+            tokens = line.strip().split()
+            for token in tokens:
+                total_log_ham += np.log((self.ham_freq.get(token, 0) + 1)/(self.ham_total + 2))
+                total_log_spam += np.log((self.spam_freq.get(token, 0) + 1)/(self.spam_total + 2))
+        return total_log_spam >= total_log_ham
         
 if __name__ == "__main__":
     nb = NaiveBayes()
     nb.get_training_files()
-    print(nb.ham_total)
-    print(nb.spam_total)
+    accuracy = nb.test()
+    print(accuracy)
