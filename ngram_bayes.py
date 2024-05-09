@@ -44,7 +44,7 @@ class NaiveBayes:
                 build = build + " " + line
             hamBuilder.append(build)
             file.close()
-        vectorizer = CountVectorizer(ngram_range=(1, self.n), stop_words='english')
+        vectorizer = CountVectorizer(ngram_range=(1, self.n))
         vectorizer.fit(hamBuilder)  # build ngram dictionary
         ngram = vectorizer.transform(hamBuilder)  # get ngram
         hamNgrams = vectorizer.vocabulary_
@@ -61,7 +61,7 @@ class NaiveBayes:
                 build = build + " " + line
             spamBuilder.append(build)
             file.close()
-        vectorizer = CountVectorizer(ngram_range=(1, self.n), stop_words='english')
+        vectorizer = CountVectorizer(ngram_range=(1, self.n))
         vectorizer.fit(spamBuilder)  # build ngram dictionary
         ngram = vectorizer.transform(spamBuilder)  # get ngram
         spamNgrams = vectorizer.vocabulary_
@@ -111,7 +111,7 @@ class NaiveBayes:
         spamBuilder.append(build)
         file.close()
 
-        vectorizer = CountVectorizer(ngram_range=(1, self.n), stop_words='english')
+        vectorizer = CountVectorizer(ngram_range=(1, self.n))
         vectorizer.fit(spamBuilder)  # build ngram dictionary
         word = vectorizer.transform(spamBuilder)  # get ngram
         ngrams = vectorizer.vocabulary_
