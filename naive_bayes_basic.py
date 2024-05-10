@@ -10,7 +10,7 @@ class NaiveBayesBasic(NaiveBayes):
         self.spam_total = 0
         self.spam_freq = {}
 
-    def get_training_files(self):
+    def train(self):
         SPAM_PATH = "./enron1/spam"
         HAM_PATH = "./enron1/ham"
         # https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
@@ -54,6 +54,6 @@ class NaiveBayesBasic(NaiveBayes):
         
 if __name__ == "__main__":
     nb = NaiveBayesBasic()
-    nb.get_training_files()
+    nb.train()
     accuracy = nb.test()
     print(accuracy)

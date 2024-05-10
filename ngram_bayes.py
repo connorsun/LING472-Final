@@ -8,7 +8,7 @@ from naive_bayes import NaiveBayes
 
 
 class NgramBayes(NaiveBayes):
-    def __init__(self):
+    def __init__(self, n):
         self.ham_total = 0
         self.ham_freq = {}
         self.spam_total = 0
@@ -17,9 +17,9 @@ class NgramBayes(NaiveBayes):
         self.hamNgrams = {}
         self.spamNgrams_total = 0
         self.hamNgrams_total = 0
-        self.n = 2
+        self.n = n
 
-    def get_training_files(self):
+    def train(self):
         SPAM_PATH = "./enron1/spam"
         HAM_PATH = "./enron1/ham"
         # https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
@@ -100,9 +100,8 @@ class NgramBayes(NaiveBayes):
 if __name__ == "__main__":
     ts = time.time()
     for n in range(1, 6):
-        nb = NgramBayes()
-        nb.n = n
-        nb.get_training_files()
+        nb = NgramBayes(n)
+        nb.train()
         accuracy = nb.test()
         print("accuracy for n = " + str(nb.n) + " " + str(accuracy))
     print("time taken " + str(time.time() - ts))

@@ -7,7 +7,7 @@ class NaiveBayes(ABC):
         pass
 
     @abstractmethod
-    def get_training_files(self):
+    def train(self):
         pass
     
     def test(self):
