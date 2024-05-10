@@ -4,9 +4,10 @@ from os import listdir
 from os.path import isfile, join
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
+from naive_bayes import NaiveBayes
 
 
-class NaiveBayes:
+class NgramBayes(NaiveBayes):
     def __init__(self):
         self.ham_total = 0
         self.ham_freq = {}
@@ -77,25 +78,6 @@ class NaiveBayes:
         self.spamNgrams_total = float(spamNgrams_total)
         self.hamNgrams_total = float(hamNgrams_total)
 
-    def test(self):
-        TEST_SPAM_PATH = "./enron2/spam"
-        TEST_HAM_PATH = "./enron2/ham"
-        TEST_SPAM_FILES = [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if
-                           isfile(join(TEST_SPAM_PATH, file))]
-        TEST_HAM_FILES = [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if
-                          isfile(join(TEST_HAM_PATH, file))]
-        correct = 0
-        total = 0
-        for ham_file in TEST_HAM_FILES:
-            if not self.predict(ham_file):
-                correct += 1
-            total += 1
-        for spam_file in TEST_SPAM_FILES:
-            if self.predict(spam_file):
-                correct += 1
-            total += 1
-        return float(correct) / total
-
     def predict(self, filename):
         file = open(filename, "r", encoding="ISO-8859-1")
         total_log_ham = np.log(self.hamNgrams_total / (self.hamNgrams_total + self.spamNgrams_total))
@@ -118,7 +100,7 @@ class NaiveBayes:
 if __name__ == "__main__":
     ts = time.time()
     for n in range(1, 6):
-        nb = NaiveBayes()
+        nb = NgramBayes()
         nb.n = n
         nb.get_training_files()
         accuracy = nb.test()
