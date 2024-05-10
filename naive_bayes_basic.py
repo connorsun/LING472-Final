@@ -1,4 +1,4 @@
-from os import listdir
+from os import listdir, scandir
 from os.path import isfile, join
 import numpy as np
 from naive_bayes import NaiveBayes
@@ -11,11 +11,16 @@ class NaiveBayesBasic(NaiveBayes):
         self.spam_freq = {}
 
     def train(self):
-        SPAM_PATH = "./enron1/spam"
-        HAM_PATH = "./enron1/ham"
         # https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
-        SPAM_FILES = [join(SPAM_PATH, file) for file in listdir(SPAM_PATH) if isfile(join(SPAM_PATH, file))]
-        HAM_FILES = [join(HAM_PATH, file) for file in listdir(HAM_PATH) if isfile(join(HAM_PATH, file))]
+        SPAM_FILES = []
+        HAM_FILES = []
+        TESTING_PATH = "./Training"
+        TESTING_FOLDERS_PATHS = [f.path for f in scandir(TESTING_PATH) if f.is_dir()]
+        for testing_folder_path in TESTING_FOLDERS_PATHS:
+            TEST_SPAM_PATH = join(testing_folder_path, "spam")
+            TEST_HAM_PATH = join(testing_folder_path, "ham")
+            SPAM_FILES += [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if isfile(join(TEST_SPAM_PATH, file))]
+            HAM_FILES += [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if isfile(join(TEST_HAM_PATH, file))]
         ham_total = 0
         ham_freq = {}
         spam_total = 0

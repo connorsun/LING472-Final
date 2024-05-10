@@ -1,4 +1,4 @@
-from os import listdir
+from os import listdir, scandir
 from os.path import isfile, join
 from abc import ABC, abstractmethod
 
@@ -11,10 +11,15 @@ class NaiveBayes(ABC):
         pass
     
     def test(self):
-        TEST_SPAM_PATH = "./enron2/spam"
-        TEST_HAM_PATH = "./enron2/ham"
-        TEST_SPAM_FILES = [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if isfile(join(TEST_SPAM_PATH, file))]
-        TEST_HAM_FILES = [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if isfile(join(TEST_HAM_PATH, file))]
+        TEST_SPAM_FILES = []
+        TEST_HAM_FILES = []
+        TESTING_PATH = "./Testing"
+        TESTING_FOLDERS_PATHS = [f.path for f in scandir(TESTING_PATH) if f.is_dir()]
+        for testing_folder_path in TESTING_FOLDERS_PATHS:
+            TEST_SPAM_PATH = join(testing_folder_path, "spam")
+            TEST_HAM_PATH = join(testing_folder_path, "ham")
+            TEST_SPAM_FILES += [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if isfile(join(TEST_SPAM_PATH, file))]
+            TEST_HAM_FILES += [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if isfile(join(TEST_HAM_PATH, file))]
         correct = 0
         total = 0
         for ham_file in TEST_HAM_FILES:
