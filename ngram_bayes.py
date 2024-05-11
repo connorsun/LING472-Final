@@ -1,10 +1,12 @@
 import string
 import time
+from collections import Counter
 from os import listdir, scandir
 from os.path import isfile, join
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
 from naive_bayes import NaiveBayes
+from nltk.corpus import stopwords
 
 
 class NgramBayes(NaiveBayes):
@@ -83,23 +85,58 @@ class NgramBayes(NaiveBayes):
         self.spamNgrams_total = float(spamNgrams_total)
         self.hamNgrams_total = float(hamNgrams_total)
 
-    def predict(self, filename):
-        file = open(filename, "r", encoding="ISO-8859-1")
+
+    def test(self):
+        TEST_SPAM_FILES = []
+        TEST_HAM_FILES = []
+        TESTING_PATH = "./Testing"
+        TESTING_FOLDERS_PATHS = [f.path for f in scandir(TESTING_PATH) if f.is_dir()]
+        for testing_folder_path in TESTING_FOLDERS_PATHS:
+            TEST_SPAM_PATH = join(testing_folder_path, "spam")
+            TEST_HAM_PATH = join(testing_folder_path, "ham")
+            TEST_SPAM_FILES += [join(TEST_SPAM_PATH, file) for file in listdir(TEST_SPAM_PATH) if isfile(join(TEST_SPAM_PATH, file))]
+            TEST_HAM_FILES += [join(TEST_HAM_PATH, file) for file in listdir(TEST_HAM_PATH) if isfile(join(TEST_HAM_PATH, file))]
+        correct = 0
+        total = 0
+        skipCount = 0;
+        for ham_file in TEST_HAM_FILES:
+            file = open(ham_file, "r", encoding="ISO-8859-1")
+            build = " "
+            for line in file:
+                translating = str.maketrans('', '', string.punctuation)
+                line = line.translate(translating)
+                line = line.strip().lower()
+                line = line.replace('subject', '')
+                build = build + " " + line
+            file.close()
+            if not self.predict(build):
+                correct += 1
+            total += 1
+        for spam_file in TEST_SPAM_FILES:
+            file = open(spam_file, "r", encoding="ISO-8859-1")
+            build = ""
+            for line in file:
+                translating = str.maketrans('', '', string.punctuation)
+                line = line.translate(translating)
+                line = line.strip().lower()
+                line = line.replace('subject', '')
+                build = build + " " + line
+            file.close()
+            if self.predict(build):
+                correct += 1
+            total += 1
+        return float(correct)/total
+
+    def predict(self, build):
         total_log_ham = np.log(self.hamNgrams_total / (self.hamNgrams_total + self.spamNgrams_total))
         total_log_spam = np.log(self.spamNgrams_total / (self.hamNgrams_total + self.spamNgrams_total))
-        for line in file:
-            translating = str.maketrans('', '', string.punctuation)
-            line = line.translate(translating)
-            line = line.strip().lower()
-            line = line.replace('subject', '')
-            vectorizer = CountVectorizer(ngram_range=(1, self.n))
-            analyzer = vectorizer.build_analyzer()
-            ngrams = analyzer(line)
-            for ngram in ngrams:
-                total_log_ham += np.log((self.hamNgrams.get(ngram, 0) + 1) / (self.hamNgrams_total + 2))
-                total_log_spam += np.log((self.spamNgrams.get(ngram, 0) + 1) / (self.spamNgrams_total + 2))
-        # print("file done")
-        return total_log_spam > total_log_ham
+        vectorizer = CountVectorizer(ngram_range=(1, self.n))
+        analyzer = vectorizer.build_analyzer()
+        ngrams = analyzer(build)
+        for ngram in ngrams:
+            total_log_ham += np.log((self.hamNgrams.get(ngram, 0) + 1) / (self.hamNgrams_total + 2))
+            total_log_spam += np.log((self.spamNgrams.get(ngram, 0) + 1) / (self.spamNgrams_total + 2))
+        return total_log_spam >= total_log_ham
 
 
 if __name__ == "__main__":
