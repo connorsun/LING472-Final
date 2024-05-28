@@ -56,6 +56,14 @@ class NaiveBayesBasic(NaiveBayes):
                 total_log_ham += np.log((self.ham_freq.get(token, 0) + 1)/(self.ham_total + 2))
                 total_log_spam += np.log((self.spam_freq.get(token, 0) + 1)/(self.spam_total + 2))
         return total_log_spam >= total_log_ham
+    
+    def predict_wordlist(self, wordlist):
+        total_log_ham = np.log(self.ham_total/(self.ham_total + self.spam_total))
+        total_log_spam = np.log(self.spam_total/(self.ham_total + self.spam_total))
+        for token in wordlist:
+            total_log_ham += np.log((self.ham_freq.get(token, 0) + 1)/(self.ham_total + 2))
+            total_log_spam += np.log((self.spam_freq.get(token, 0) + 1)/(self.spam_total + 2))
+        return total_log_spam >= total_log_ham
         
 if __name__ == "__main__":
     nb = NaiveBayesBasic()
