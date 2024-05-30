@@ -77,27 +77,24 @@ class NaiveBayesBasic(NaiveBayes):
         file = open(filename, "r", encoding="ISO-8859-1")
         total_log_ham = np.log(self.ham_total / (self.ham_total + self.spam_total))
         total_log_spam = np.log(self.spam_total / (self.ham_total + self.spam_total))
+        vector_list = []
 
         for line in file:
             tokens = line.strip().split()
             for token in tokens:
                 if token in self.word2vec_model.wv:
-                    if token in self.similarity_map:
-                        similar = self.similarity_map[token]
-                    else:
-                        similar = (self.word2vec_model.wv.most_similar(token, topn=5))
-                        self.similarity_map[token] = similar
-                    n = 1.0
-                    log_ham_similar = 0
-                    log_spam_similar = 0
-                    for part in similar:
-                        n = n * 0.66
-                        log_ham_similar += n * part[1] * np.log((self.ham_freq.get(part[0], 0) + 1) / (self.ham_total + 2))
-                        log_spam_similar += n * part[1] * np.log((self.spam_freq.get(part[0], 0) + 1) / (self.spam_total + 2))
-                    total_log_ham += log_ham_similar
-                    total_log_spam += log_spam_similar
+                    vector_list.append(token)
                 total_log_ham += np.log((self.ham_freq.get(token, 0) + 1) / (self.ham_total + 2))
                 total_log_spam += np.log((self.spam_freq.get(token, 0) + 1) / (self.spam_total + 2))
+
+        if len(vector_list) < 10:
+            return total_log_spam >= total_log_ham
+        avg_vector = np.mean([self.word2vec_model.wv[vector] for vector in vector_list], axis=0)
+        n = round(len(vector_list) / 10)
+        similar_list = (self.word2vec_model.wv.most_similar(avg_vector, topn=n))
+        for similar in similar_list:
+            total_log_ham += similar[1] * np.log((self.ham_freq.get(similar[0], 0) + 1) / (self.ham_total + 2))
+            total_log_spam += similar[1] * np.log((self.spam_freq.get(similar[0], 0) + 1) / (self.spam_total + 2))
         return total_log_spam >= total_log_ham
 
 
