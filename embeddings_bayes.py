@@ -6,7 +6,7 @@ from gensim.models import Word2Vec
 from naive_bayes import NaiveBayes
 from nltk.tokenize import sent_tokenize
 
-class NaiveBayesBasic(NaiveBayes):
+class EmbeddingsBayes(NaiveBayes):
     def __init__(self):
         self.ham_total = 0
         self.ham_freq = {}
@@ -99,7 +99,7 @@ class NaiveBayesBasic(NaiveBayes):
 
 
 if __name__ == "__main__":
-    nb = NaiveBayesBasic()
+    nb = EmbeddingsBayes()
     nb.train()
     accuracy = nb.test()
     print(accuracy)
