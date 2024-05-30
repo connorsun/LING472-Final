@@ -1,4 +1,4 @@
-Subject: re : the newvatrfacs program and testing data
+  re : the newvatrfacs program and testing data
 jin & winston ,
 i will look at the results of 2 runs ,
 but i will not look at the code unless it is in our version control system

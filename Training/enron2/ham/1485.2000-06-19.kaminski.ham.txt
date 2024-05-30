@@ -1,4 +1,4 @@
-Subject: pricing credit on thousands of names
+  pricing credit on thousands of names
 all -
 our challenge for the next few months is to build an automated system to
 provide differential pricing on thousands of credits [ 5 , 000 by year - end ] .

@@ -1,4 +1,4 @@
-Subject: re : implementing term - structure of correlations for power
+  re : implementing term - structure of correlations for power
 tanya ,
 while there is seasonal correlations in power , especially for np - 15
 and sp - 15 ( same region ) , the term structure of correlations can be input .

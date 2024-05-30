@@ -1,4 +1,4 @@
-Subject: component var
+  component var
 tanya ,
 some stability tests were performed on the simulation .
 ( 1 ) the window size of the averaging in the simulation was changed from 10 to

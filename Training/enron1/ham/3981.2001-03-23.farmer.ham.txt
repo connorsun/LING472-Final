@@ -1,4 +1,4 @@
-Subject: volume changes
+  volume changes
 o ' neal ,
 the following volume changes were made today :
 deal # meter # zone from to effective

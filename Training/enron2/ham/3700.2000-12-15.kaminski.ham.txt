@@ -1,4 +1,4 @@
-Subject: re : uk : reconciling the spreadsheet and risktrac var numbers
+  re : uk : reconciling the spreadsheet and risktrac var numbers
 hi , tanya :
 the factor loading results for the eff _ dt = ' 12 - dec - 2000 ' are available on
 the rms _ stage database .

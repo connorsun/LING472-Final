@@ -1,4 +1,4 @@
-Subject: gpo
+  gpo
 _ _ _
 _
 _ /

@@ -1,4 +1,4 @@
-Subject: surfer alert : spyware
+  surfer alert : spyware
 page loading . . .
 image not loading ? see message here .
 stop future alerts .

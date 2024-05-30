@@ -1,4 +1,4 @@
-Subject: online trading simulation
+  online trading simulation
 we are continuing work to ensure our new online trading system , ubswenergy , is ready for launch on the week of feb . 11 , which is the week following the anticipated enron / ubs closing date of friday , feb . 8 .
 to assist in this process , we are planning an online trading simulation for thursday , february 7 from 0900 to 1100 ( cst ) . it is planned to include all traders , originators , mid / back - office staff and it teams who would normally be involved with electronic trading .
 purpose of the simulation - the simulation will test our " live " trading environment ( restricted to internal access only ) and will :

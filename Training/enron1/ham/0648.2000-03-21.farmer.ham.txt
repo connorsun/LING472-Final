@@ -1,4 +1,4 @@
-Subject: pg & e texoma volumes
+  pg & e texoma volumes
 in reviewing some of the imbalance numbers , i discovered that valero texoma
 ( # 71 ) bav volumes have not fed into pops since 3 / 14 causing an out of balance
 at the meter in excess of 500 , 000 mm month to date . the more critical part of

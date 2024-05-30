@@ -1,4 +1,4 @@
-Subject: delivery notification : delivery has failed
+  delivery notification : delivery has failed
 this report relates to a message you sent with the following header fields :
 return - path :
 received : from ims - ms - daemon . mailo 2 . direcway . com by mailo 2 . direcway . com

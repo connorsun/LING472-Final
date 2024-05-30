@@ -1,4 +1,4 @@
-Subject: re : joint probabilities
+  re : joint probabilities
 michael
 a table ( table 2 ) has been added with probabilities for rab > x , fx > y . at
 the current currency level , approx 1 . 5 , all the numbers are multiplied by 1 / 2

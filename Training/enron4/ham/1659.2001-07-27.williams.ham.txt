@@ -1,4 +1,4 @@
-Subject: fw : summary of scheduling problems we discussed on july 27 , 2001
+  fw : summary of scheduling problems we discussed on july 27 , 2001
 the two dispatcher log entries show that enron requested operating reserves
 for the same contingency the occurred about 16 : 18 on june 30 th . they
 continued to request reserves for several subsequent hours for the same

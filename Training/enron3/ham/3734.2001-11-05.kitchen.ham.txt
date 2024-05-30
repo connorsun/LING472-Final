@@ -1,4 +1,4 @@
-Subject: 1 : 30 trade counts
+  1 : 30 trade counts
 trade date trade cnt
 10 / 6 / 2001 17
 10 / 7 / 2001 42

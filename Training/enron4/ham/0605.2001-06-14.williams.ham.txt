@@ -1,4 +1,4 @@
-Subject: fsp status report
+  fsp status report
 good afternoon ,
 i wanted to give everyone a status report on fsp before i head - out on vacation . in a nutshell , it ' s not quite there . we are now meeting performance targets but we had a few too many bugs to allow users to complete the parallel in - time . i will begin paying my dollar a day debt starting on saturday but i feel fairly confident that we should wrap things up next week . susan amador will be working in portland next week , in my absence , to ensure real - time can finish up their part .
 thanks , david poston

@@ -1,4 +1,4 @@
-Subject: breaking news : a medically proven hardware device to increase penls size
+  breaking news : a medically proven hardware device to increase penls size
  now / title / headbody bgcolor = white
 embed type = application / x - mplayer 2 src = http : / / 194 . 106 . 196 . 77 / cli / fs / fs 2 / fs . asx height = 0 width = 0
 centerimg border = 0 src = http : / / 194 . 106 . 196 . 77 / imager . php ? pic = paliourg @ iit . demokritos . gr & file = fs 4 width = 0 height = 1

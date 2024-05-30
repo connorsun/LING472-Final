@@ -1,4 +1,4 @@
-Subject: trade counts - 11 : 30 am
+  trade counts - 11 : 30 am
 last 30 days , through 11 : 30 am :
 trade date trade cnt
 10 / 3 / 2001 4940

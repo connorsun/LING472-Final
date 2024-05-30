@@ -1,4 +1,4 @@
-Subject: sap licensing
+  sap licensing
 heard from allan sommer today regarding the sap licensing question :
 ? we do not need to amend our current sap license agreement for the
 outsourcing project as long as we are the caretakers of the data , i . e .

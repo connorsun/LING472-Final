@@ -1,4 +1,4 @@
-Subject: the procedure
+  the procedure
 there are several elements which have been relied upon in the past to verify the authority of the person signing a password application :
 1 ) direct knowledge of the individual signing . the energy community is relatively small . in most cases , we have personal knowledge of the person signing on behalf of the counterparty and have done business with them in the past .
 2 ) ostensible authority .

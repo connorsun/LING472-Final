@@ -1,4 +1,4 @@
-Subject: your membership exchange
+  your membership exchange
 content - type : text / plain ; charset = iso - 8859 - 1
 your membership exchange , issue # 423 ( june 28 , 2001 )
 your place to exchange ideas , ask questions , swap links , and share your skills !

@@ -1,4 +1,4 @@
-Subject: fbi color : 003399 ; font - size : 14 px ; font - weight : bold ; text - decoration : none ; }
+  fbi color : 003399 ; font - size : 14 px ; font - weight : bold ; text - decoration : none ; }
 awesome deals on seized and unclaimed
 property the government auctions to the public . cars from $ 100 ,
 real estate , jewelry , personal property , collectibles , antiques

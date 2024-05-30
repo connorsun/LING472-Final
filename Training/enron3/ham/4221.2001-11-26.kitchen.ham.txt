@@ -1,4 +1,4 @@
-Subject: 3 : 30 pm trade counts
+  3 : 30 pm trade counts
 trade date na gas na power total trade cnt
 11 / 26 / 2001 2093 655 3547
 11 / 25 / 2001 14 22 36

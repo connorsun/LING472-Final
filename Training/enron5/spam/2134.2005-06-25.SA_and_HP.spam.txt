@@ -1,4 +1,4 @@
-Subject: paypal notification ( your account is suspended )
+  paypal notification ( your account is suspended )
 dear paypal member ,
 paypal is committed to maintaining a safe environment
 for its community of

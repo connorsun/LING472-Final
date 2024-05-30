@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ " graduate school of music in performance " ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ " graduate school of music in performance " ]
 from paliourg @ iit . demokritos . gr fri sep 17 13 : 30 : 25 2004
 received : from gaia . cs . uoi . gr ( gaia . cs . uoi . gr [ 195 . 130 . 121 . 201 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with esmtp id i 8 hauoo 04991 ;

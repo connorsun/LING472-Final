@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ washington . mutual , " inc . " ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ washington . mutual , " inc . " ]
 from paliourg @ iit . demokritos . gr wed dec 15 23 : 50 : 45 2004
 received : from adslsapo - b 4 - 34 - 153 . telepac . pt ( adslsapo - b 4 - 34 - 153 . telepac . pt [ 81 . 193 . 34 . 153 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id ibflor 201470

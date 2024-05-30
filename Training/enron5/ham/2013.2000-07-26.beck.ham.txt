@@ -1,4 +1,4 @@
-Subject: reporting workshops
+  reporting workshops
 the sap reporting team is currently scheduling reporting workshops for august
 and september . these will be very focused , hands on , sessions from 1 - 4 hours
 long with around 5 people per session . there is one overview class , design

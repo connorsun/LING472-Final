@@ -1,4 +1,4 @@
-Subject: more hedge effectiveness testing
+  more hedge effectiveness testing
 vince ,
 have you seen the latest version of our article ? in a nutshell , it
 establishes both what ' s right and what ' s wrong with r - squared / regression .

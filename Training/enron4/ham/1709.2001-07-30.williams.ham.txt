@@ -1,4 +1,4 @@
-Subject: re : hourly loadshapes for west power
+  re : hourly loadshapes for west power
 bill ,
 these are currently being tested so all transactions will bridge into our downstream systems correctly . i will let you know as soon as they are ready for use .
 chris

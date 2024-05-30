@@ -1,4 +1,4 @@
-Subject: performance management process - new password
+  performance management process - new password
 according to our system records , you have not yet logged into the enron
 performance management system ( pep ) . as a result your temporary password
 for the pep system has expired . your user id and new password are provided

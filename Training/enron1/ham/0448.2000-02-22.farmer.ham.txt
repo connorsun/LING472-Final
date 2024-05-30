@@ -1,4 +1,4 @@
-Subject: hgpl and kgpl - 3 rivers gas
+  hgpl and kgpl - 3 rivers gas
 based on the conversation we had at the meeting last thursday , i am
 implementing the following changes to humble gas pipeline and king ranch gas
 plant . if you disagree or feel you had a different understanding than the

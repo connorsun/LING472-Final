@@ -1,4 +1,4 @@
-Subject: bny project review
+  bny project review
 please find the following action items for the tech services team stemming from today ' s dash review meeting with l . kitchen . bob v . can you take point on this with d . williams . mike coleman attended the meeting in dan ' s absence and can provide feedback on some of the technical discussion .
 1 . please develop a project schedule showing the inter - relationship between permitting , engineering , procurement , fabrication , construction and start - up activities . key issues include :
 a ) ability to get equipment ordered and delivered given vendor availability

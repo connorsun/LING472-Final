@@ -1,4 +1,4 @@
-Subject: fw : fundamental operating standards
+  fw : fundamental operating standards
 fyi these are the standards we are putting out there for gcp worldwide
 ( draft at the moment - - to initiate a debate )
 some of the standards are quite " lofty " but i think we can get there . i

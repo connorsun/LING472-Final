@@ -1,4 +1,4 @@
-Subject: help on cluster analysis
+  help on cluster analysis
 just wanted to pass a quick note to say thanks for all of your help that the
 three of you each gave me concerning cluster analysis . your help was
 invaluable . as you may have been aware , we were performing the cluster

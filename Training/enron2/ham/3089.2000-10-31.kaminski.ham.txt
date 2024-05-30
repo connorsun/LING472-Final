@@ -1,4 +1,4 @@
-Subject: xms memo
+  xms memo
 over the next several months enron will be phasing in a new expense - reporting
 product , concur technologies  , expense management system ( xms ) . you will be
 able to prepare your expense report , send it for approval , and transmit it

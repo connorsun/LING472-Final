@@ -1,4 +1,4 @@
-Subject: urgent security notification !
+  urgent security notification !
 dear valuedpaypalmember :
 we recently noticed one or more attempts to log in to your paypal account from a foreign ip address .
 if you recently accessed your account while traveling in rusia , the unusual log in attempts may have been initiated by you . however , if you did not initiate the logins , please visit paypal as soon as possible to verify your identity :

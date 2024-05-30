@@ -1,4 +1,4 @@
-Subject: web based expense report implementation deadline
+  web based expense report implementation deadline
 xms communication
 the expense management system ( xms ) is a tool used to electronically submit
 your expense report for approval and payment through the enron intranet . it

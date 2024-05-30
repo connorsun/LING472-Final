@@ -1,4 +1,4 @@
-Subject: desk to desk deals
+  desk to desk deals
 during mid - july , sitara will change the logic on desk to desk deals to post
 the volume associated with the sales ( seller ) side to the sitara deal .
 currently , the volume on the receipt ( buyer ) side is being posted . this

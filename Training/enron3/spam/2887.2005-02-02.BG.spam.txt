@@ -1,2 +1,2 @@
-Subject: message subject
+  message subject
 goodbye

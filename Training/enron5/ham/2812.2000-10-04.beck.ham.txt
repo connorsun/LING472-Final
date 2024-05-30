@@ -1,4 +1,4 @@
-Subject: valtech & commodity logic project
+  valtech & commodity logic project
 sally ,
 fyi , attached is a memo from valtech who helped us building eol . the
 architect worked on eol project is available and he is one of the most

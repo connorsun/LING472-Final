@@ -1,4 +1,4 @@
-Subject: midc schedule going real time heavy load june 21
+  midc schedule going real time heavy load june 21
 heavy load for 6 / 21
 our upstream bpa deal # 504537 . 1
 our downstream ipco deal # 655127 . 1

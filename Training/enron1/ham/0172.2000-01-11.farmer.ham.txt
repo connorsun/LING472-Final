@@ -1,4 +1,4 @@
-Subject: upcoming sitara risk assignment release
+  upcoming sitara risk assignment release
 in order to prepare for the upcoming sitara release to production scheduled
 on 01 / 24 , sitara will be unavailable as follows :
 production 01 / 21 ( fri . ) 7 : 00 pm ( cst ) thru 01 / 23 ( sun . ) 12 : 00 pm ( cst )

@@ -1,4 +1,4 @@
-Subject: credit exposure model
+  credit exposure model
 bill ,
 alex and i are working on the credit exposure model . we finished the initial
 design issues regarding

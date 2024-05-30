@@ -1,4 +1,4 @@
-Subject: sitescooper : scoop websites onto your palmpilot - sitescooper
+  sitescooper : scoop websites onto your palmpilot - sitescooper
 automatically retrieves the stories from several news websites , trims off
 extraneous html , and converts them into isilo or palm doc format for later
 reading on - the - move . it maintains a cache , and will avoid stories you ' ve

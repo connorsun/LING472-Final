@@ -1,4 +1,4 @@
-Subject: update : ffvols
+  update : ffvols
 ted ,
 an update on the implementation for ffvols :
 ( 1 ) in comparing 6 days of historical var calculations

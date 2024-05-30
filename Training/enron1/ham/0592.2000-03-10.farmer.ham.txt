@@ -1,4 +1,4 @@
-Subject: sitara position
+  sitara position
 please use the position manager home button .
 when using the sitara position manager , and you drill down to view details
 or change the dates , the position manager keeps

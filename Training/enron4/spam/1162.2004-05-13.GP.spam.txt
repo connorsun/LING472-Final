@@ -1,4 +1,4 @@
-Subject: fw : [ 6 ] investor alert : stock alert tttp
+  fw : [ 6 ] investor alert : stock alert tttp
 tttp * * * * * tttp * * * * * tttp * * * * * tttp
 stock
 finder newsletter

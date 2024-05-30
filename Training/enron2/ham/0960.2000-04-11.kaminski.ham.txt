@@ -1,4 +1,4 @@
-Subject: invoice for ordered papers
+  invoice for ordered papers
 you have ordered the following papers :
 - wp w 7613
 foundations of technical analysis : computational algorithms , statistical

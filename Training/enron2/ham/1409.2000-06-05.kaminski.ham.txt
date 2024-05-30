@@ -1,4 +1,4 @@
-Subject: re : ff vols from historical fwd price curves
+  re : ff vols from historical fwd price curves
 winston ,
 i am sending you ffd vol curves which are calculated based on 1 month ( 18
 log - returns )

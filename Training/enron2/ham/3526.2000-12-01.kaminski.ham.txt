@@ -1,4 +1,4 @@
-Subject: wti maket maker simulation model
+  wti maket maker simulation model
 john ,
 we finished the version 2 of the simulation model which deals with the
 open - close trading versus the continuous trading in the previous version .

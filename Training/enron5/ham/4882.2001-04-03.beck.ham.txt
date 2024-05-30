@@ -1,4 +1,4 @@
-Subject: aep - hpl update
+  aep - hpl update
 after meeting with aep this morning , some issues are revolved and new one added .
 resolved :
 confirmations will be done out of aep ' s systems for long term deals , intramonth transactions

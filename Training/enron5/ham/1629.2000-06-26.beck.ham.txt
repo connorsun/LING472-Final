@@ -1,4 +1,4 @@
-Subject: sap a / r a / p aging report
+  sap a / r a / p aging report
 tonight kris and i met with the sap team about the critical issues we
 discussed in the meeting this morning .
 as far as xrefl ( coordinator ) and xref 2 ( physical vs . financial flag ) fields

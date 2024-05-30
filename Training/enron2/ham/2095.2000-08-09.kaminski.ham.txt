@@ -1,4 +1,4 @@
-Subject: matlab at enron
+  matlab at enron
 hello vince :
 i ' m the territory manager for the mathworks , we develop matlab technical
 software . we ' ve recently developed tools well suited for energy trading

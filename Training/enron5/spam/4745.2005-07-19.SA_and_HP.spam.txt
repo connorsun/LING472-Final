@@ -1,4 +1,4 @@
-Subject: undelivered mail returned to sender
+  undelivered mail returned to sender
 this is the scanmail program at host vc 8 . point . ne . jp .
 i ' m sorry to have to inform you that the message returned
 below could not be delivered to one or more destinations .

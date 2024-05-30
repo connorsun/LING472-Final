@@ -1,4 +1,4 @@
-Subject: historical curve databases & historical ff vols
+  historical curve databases & historical ff vols
 dear all ,
 as promised , i cleaned up the data and put it into 6 spreadsheet files ( we
 will do gold and cocoa separately ) . i also ran 10 , 20 , 30 and 60 day fwd fwd

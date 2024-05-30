@@ -1,4 +1,4 @@
-Subject: new version of stack manager
+  new version of stack manager
 introduction
 in response to feedback received from enron traders worldwide , we have
 upgraded and improved the stack manager to include new functionality which we

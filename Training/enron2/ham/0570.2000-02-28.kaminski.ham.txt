@@ -1,4 +1,4 @@
-Subject: tips
+  tips
 fyi - us inflation - linked bond
 i can not replicate the nominal yield and inflation adjected cash flow
 calculation from bloomberg . so i called the bond analytics group .

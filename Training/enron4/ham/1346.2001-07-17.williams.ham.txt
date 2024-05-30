@@ -1,4 +1,4 @@
-Subject: ds 3 failure and next steps
+  ds 3 failure and next steps
 good afternoon ,
 short - history
 in case you haven ' t heard , our project to implement a high - bandwidth connection between houston & portland and remove our dependence on terminal server is a failure . to make a long story short , the new ds 3 allowed more data to travel back and forth but the time to get data between houston and portland was 10 times slower than running it through terminal server .

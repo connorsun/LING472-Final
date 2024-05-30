@@ -1,4 +1,4 @@
-Subject: re : master firm agreements
+  re : master firm agreements
 attention deal compliance and deal validation :
 new procedure ! !
 pursuant to jeff hodge ' s email below , effective tuesday , november 6 , for all counterparties with both a master firm contract and a gisb , all firm deals ( eol and telephonic ) , regardless of length ( including one day deals ) should be attached to the master firm contract . with respect to eol deals , profile manager has been updated to accommodate this change . for counterparties with only a gisb as a master , you may continue attaching firm deals up to one month in duration .

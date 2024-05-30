@@ -1,4 +1,4 @@
-Subject: my coordinates
+  my coordinates
 test message
 vincent kaminski
 managing director - research

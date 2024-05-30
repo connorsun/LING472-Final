@@ -1,4 +1,4 @@
-Subject: command confirmation request ( 4 e 46 c 824 )
+  command confirmation request ( 4 e 46 c 824 )
 your command :
 subscribe frbnyrmagl vince kaminski
 has been received . you must now reply to this message ( as explained

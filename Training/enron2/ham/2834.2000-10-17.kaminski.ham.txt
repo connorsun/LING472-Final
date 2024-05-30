@@ -1,4 +1,4 @@
-Subject: parameter estimation
+  parameter estimation
 vince ,
 i have put together a parameter estimation model , which is continuation of
 tanya ' s model .

@@ -1,4 +1,4 @@
-Subject: re : enpower
+  re : enpower
 i have not personally talked to james about these issues in enpower . his
 concerns regarding swaptions and asian options are accurate . it is currently
 working on new volatility curves for swaptions to use . it is also working on

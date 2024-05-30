@@ -1,4 +1,4 @@
-Subject: deals under wrong counterparty from weekend
+  deals under wrong counterparty from weekend
 i need some assistance getting these deals corrected in the system for the
 weekend , so that i can get my errors clear . i have tried to change the
 counterparty , but i am not able . jackie is out again today , so , i will be

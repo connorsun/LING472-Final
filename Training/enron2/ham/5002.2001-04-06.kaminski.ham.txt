@@ -1,4 +1,4 @@
-Subject: free latex
+  free latex
 go to http : / / www . winedt . com / , select downloads , and download winedt 5 to your
 c drive .
 on bottom of the same page ( download ) , click on miktex ' s home page ,

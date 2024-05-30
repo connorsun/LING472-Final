@@ -1,4 +1,4 @@
-Subject: update - sap / unify - major open issues & late requirements
+  update - sap / unify - major open issues & late requirements
 impacting overall schedules
 the attached spreadsheet is updated from tuesday ' s meeting with the action
 item in blue .

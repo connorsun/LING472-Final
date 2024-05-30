@@ -1,4 +1,4 @@
-Subject: re : cplex floating license
+  re : cplex floating license
 chonawee and i just had a phone conversation with cplex . there are other
 alternatives ( products ) that may help in saving time and cost . chonawee and i
 feel that one floating develoment license , and one or two opl ( a package on

@@ -1,4 +1,4 @@
-Subject: option pricing discrepancy for j . c . penny transaction
+  option pricing discrepancy for j . c . penny transaction
 amitava and seksan have identified the source of the discrepancy between the
 option prices calculated by the credit - reserve model and the stand - alone
 spreadsheet model used in deal pricing . the discrepancy can be traced to

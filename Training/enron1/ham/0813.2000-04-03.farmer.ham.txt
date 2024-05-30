@@ -1,4 +1,4 @@
-Subject: procedure for adding new capacity tickets for multi - desk service
+  procedure for adding new capacity tickets for multi - desk service
 utilization - revised
 revision in bold . pass on to any who may need this .
 in order to provide the ability to track transport expense by desk , sitara

@@ -1,4 +1,4 @@
-Subject: netco required contracts
+  netco required contracts
 counterparty agreements :
 isda master agreement ( or relevant gtc )
 physical power master ( or relevant gtc )

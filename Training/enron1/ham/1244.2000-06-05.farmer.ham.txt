@@ -1,4 +1,4 @@
-Subject: new su bridge
+  new su bridge
 the new sitara to unify bridge monitor is in production .
 the monitor shows deals in error state ( failed ) or in queue to bridge
 ( pending ) - for deals going to unify from sitara .

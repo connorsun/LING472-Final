@@ -1,4 +1,4 @@
-Subject: non - firm power curve building
+  non - firm power curve building
 hi vince ,
 amitava and i have received a request to build a non - firm power curve for each region from david hoog ' s double trigger folks . the objective , as they explain it , is to allow the desk to buy non - firm from the market , buy david ' s outage product , and sell firm to the market . accountants would like a curve to mark the non - firm position .
 my initial thought is that the desk should provide this non - firm curve , but it seems that this market is very illiquid and they are reluctant so they have put the ball in david hoog ' s court to build the curve if david wants to sell his product internally to the desk .

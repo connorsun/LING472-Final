@@ -1,4 +1,4 @@
-Subject: netco implemention template
+  netco implemention template
 from kevin presto :
 attached is the spreadsheet version of the template we discussed this morning . i have added the additional columns everyone requested . i would now like the business unit leads to fill in the blanks such that we have an initial power implementation plan that can be delivered to louise on friday .
 with respect to east power ( i am out thursday and friday ) , i am delegating to all of my desk heads the responsibility the following :

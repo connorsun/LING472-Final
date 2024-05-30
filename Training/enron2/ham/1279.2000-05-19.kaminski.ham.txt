@@ -1,4 +1,4 @@
-Subject: xpress and cplex runtime comparison results
+  xpress and cplex runtime comparison results
 vince ,
 fyi
 below is the comparison of the computation time results from cplex and xpress

@@ -1,4 +1,4 @@
-Subject: re : network planning
+  re : network planning
 stinson , i had a discussion with jim and he said that the company ' s name is
 mill three . they provide modeling tools for tiered qos and the like for
 network planning . he said that the code is written in c and that we should

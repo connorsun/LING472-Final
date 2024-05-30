@@ -1,4 +1,4 @@
-Subject: si server will be unavailable , today , wednesday , july 11 , 2001
+  si server will be unavailable , today , wednesday , july 11 , 2001
 * * urgent notification : si server will be
 unavailable , today , wednesday , july 11 , 2001 ( 14 : 18 to 14 : 55 pdt ) to perform
 a fallback to our backup si server in alhambra .

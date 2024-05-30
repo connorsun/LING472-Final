@@ -1,4 +1,4 @@
-Subject: re : error repairs
+  re : error repairs
 the pricing for the base deal is based on the gd , but it ' s the average of the gas daily plus . 02 , right ? and i was told that sitara could not handle this pricing structure , that it had to be calculated and entered as a fixed price . is this correct ?
 - - - - - original message - - - - -
 from : farmer , daren j .

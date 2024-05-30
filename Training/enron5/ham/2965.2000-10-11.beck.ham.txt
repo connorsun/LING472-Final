@@ -1,4 +1,4 @@
-Subject: transparently controlling the wholesale trading businesses - an
+  transparently controlling the wholesale trading businesses - an
 internal approach to internal audit
 shawn / shona
 we have talked round this issue for some time so i thought i would try to

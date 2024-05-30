@@ -1,4 +1,4 @@
-Subject: re : backtesting for different percentiles
+  re : backtesting for different percentiles
 vlady , i enclosed the file with 2 backtesting plots ( you saw them before ) .
 the following table shows what was the percentage of the days when pnl fell
 below var 95 , var 90 , var 85 .

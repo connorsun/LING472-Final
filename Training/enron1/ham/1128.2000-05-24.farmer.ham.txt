@@ -1,4 +1,4 @@
-Subject: midtex
+  midtex
 after comparing hpl ' s numbers with pg & e ' s numbers i have found a few
 discrepancies with the tufco volumes .
 hpl pg & e

@@ -1,4 +1,4 @@
-Subject: re : new counterparty
+  re : new counterparty
 we have zeroed out the mark to market value in the spreadsheets . now there
 still is " new counterparty " in the spreadsheet , but there is $ 0 in credit
 risk for those . john powell in debbie ' s group is working on a longer term

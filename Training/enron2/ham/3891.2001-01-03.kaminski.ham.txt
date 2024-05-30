@@ -1,4 +1,4 @@
-Subject: spread option code change
+  spread option code change
 zhiyang and zhiyun ,
 vince told me that london has some trouble to calculate spread option
 for correl = 1 , voll = vol 2 . in such a case , the effective volatility becomes

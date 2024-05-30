@@ -1,4 +1,4 @@
-Subject: unable to process your message
+  unable to process your message
 we are unable to process the message from
 to .
 the email address used to send your message is not subscribed to this

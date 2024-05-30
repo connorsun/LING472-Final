@@ -1,4 +1,4 @@
-Subject: no ancillary schedules awarded . variances detected .
+  no ancillary schedules awarded . variances detected .
 variances detected in generation schedule .
 variances detected in sc trades schedule .
 log messages :

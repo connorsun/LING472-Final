@@ -1,4 +1,4 @@
-Subject: paypal account verification
+  paypal account verification
 notification of limited account access
 as part of our security measures , we regularly screen activity in the
 paypal system . we recently noticed the following issue on your account :

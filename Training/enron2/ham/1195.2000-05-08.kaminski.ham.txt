@@ -1,4 +1,4 @@
-Subject: enron storage analysis model audit
+  enron storage analysis model audit
 professor darrel duffie
 450 miramonte avenue
 palo alto , ca 94306

@@ -1,4 +1,4 @@
-Subject: re : v @ r training sign - up list & misc info
+  re : v @ r training sign - up list & misc info
 the following comes to mind :
 describe the inputs to var and the sources of the inputs
 discuss enron ' s timing of running the var calculation

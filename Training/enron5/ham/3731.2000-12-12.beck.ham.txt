@@ -1,4 +1,4 @@
-Subject: commoditylogic all - module demo
+  commoditylogic all - module demo
 if you would like , the team will be prepared to show live demonstrations of
 the latest versions of all four commoditylogic modules next thursday ,
 december 21 st . this would probably require about 2 hours . the versions

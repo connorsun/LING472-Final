@@ -1,4 +1,4 @@
-Subject: re : clustering for power
+  re : clustering for power
 tanya ,
 as we discussed in the last meeting , to simulate secondary power curve we
 need correlated jump sizes . this is totally different from the current

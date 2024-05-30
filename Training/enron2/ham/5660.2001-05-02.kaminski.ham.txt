@@ -1,4 +1,4 @@
-Subject: re : asian option for pavel
+  re : asian option for pavel
 our convention is whoever finalizes the model should write the documentation . it does not make sense
 to write one when changes are anticipated . you have been working on this almost a year , it never
 strikes you that we need a documentation ?

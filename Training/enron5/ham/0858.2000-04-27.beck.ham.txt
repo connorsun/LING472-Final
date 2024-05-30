@@ -1,4 +1,4 @@
-Subject: dpr signoff
+  dpr signoff
 the risk management policy requires signoff on the dpr by individuals
 designated by the coo and cro of enron corp . currently , greg is the sole
 authorized signer . given that he is moving into cyberspace it has been

@@ -1,4 +1,4 @@
-Subject: fwd fwd volatility for metals var
+  fwd fwd volatility for metals var
 hi tanya ,
 i think using the 60 business day fwd fwd vols based on historical data is
 reasonable , to ensure consistency with the amount of data we use to estimate

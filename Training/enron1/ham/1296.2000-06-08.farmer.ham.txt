@@ -1,4 +1,4 @@
-Subject: cutoff for processing invoices and expense reports in msa
+  cutoff for processing invoices and expense reports in msa
 please note that there is a cutoff date for processing all invoices and
 expense reports in msa . the cutoff date is next thursday , june 15 , 2000 .
 beginning july 1 , all invoices and expense reports will be processed in sap

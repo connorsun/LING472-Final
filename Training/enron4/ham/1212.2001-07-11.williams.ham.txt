@@ -1,4 +1,4 @@
-Subject: iso compliance filing on june 19 ferc order
+  iso compliance filing on june 19 ferc order
 all ,
 i have reviewed documents from the iso ' s website regarding forced outages as they relate to the june 19 ferc order and concluded the following :
 ( 1 ) during a system emergency , a penalty based on twice the highest price paid for energy in the hour could be assessed if the participating generator does not notify the iso of the outage within the operating hour of the outage , and

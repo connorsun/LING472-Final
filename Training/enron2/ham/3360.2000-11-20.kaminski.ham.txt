@@ -1,4 +1,4 @@
-Subject: eol wti maket maker simulation model
+  eol wti maket maker simulation model
 john ,
 here is the spreadsheet zimin built for estimaing p / l from trading wti
 forwards . let zimin , vince , or i know if you have questions or comments .

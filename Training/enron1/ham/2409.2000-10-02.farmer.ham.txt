@@ -1,4 +1,4 @@
-Subject: opm survey
+  opm survey
 as communicated to you in an email dated september 19 , 2000 , we have
 developed an easier and more efficient method of handling the operations
 pricing model hours survey using microsoft access . the new & improved survey

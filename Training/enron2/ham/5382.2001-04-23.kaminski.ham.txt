@@ -1,4 +1,4 @@
-Subject: re : eol pricing algorithm
+  re : eol pricing algorithm
 hi bob ,
 some comments :
 1 . you request enron position after successful market order , but not after limit order - - you may want it after limit order as well to be consistent . i am not clear on how you would use enron position . it is possible that the trading desk will have a target position in mind and they will set bids and offers in such a way as to try to achieve that target position , but this target position probably changes continuously and is not stored anywhere , and without this target position there is nothing to compare actual enron position to . of course , enron position may still provide some insights .

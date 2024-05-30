@@ -1,4 +1,4 @@
-Subject: term project :
+  term project :
 this is the list of projects for the members of the " quant " team .
 if you are working on different project , please , ignore this message .
 please , develop in a spreadsheet solutions / examples for the following :

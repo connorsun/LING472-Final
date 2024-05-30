@@ -1,4 +1,4 @@
-Subject: fw : hits on dealbench for longview energy
+  fw : hits on dealbench for longview energy
 fyi - here is an example of what we are monitoring on the longview sale - not as significant or real - time as the info one gets from eol , but still helpful .
 chris calger
 503 - 464 - 3735

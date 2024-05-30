@@ -1,4 +1,4 @@
-Subject: fwd : billing question
+  fwd : billing question
 return - path :
 received : from rly - yao 3 . mx . aol . com ( rly - yao 3 . mail . aol . com [ 172 . 18 . 144 . 195 ] )
 by air - yao 5 . mail . aol . com ( v 67 . 7 ) with esmtp ; mon , 10 jan 2000 07 : 03 : 24 - 0500

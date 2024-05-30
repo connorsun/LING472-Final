@@ -1,4 +1,4 @@
-Subject: stats
+  stats
 west power desk
 assuming book outs 2 , 208 mw of 70 , 000 mw ( 3 . 15 % )
 no book outs 44 , 167 mw of 70 , 000 mw ( 63 % )

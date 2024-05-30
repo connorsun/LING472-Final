@@ -1,4 +1,4 @@
-Subject: warning : confirm your paypal account
+  warning : confirm your paypal account
 security center advisory !
 paypal is committed to maintaining a safe
 environment for its

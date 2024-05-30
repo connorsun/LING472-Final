@@ -1,4 +1,4 @@
-Subject: view and print doorstep reports
+  view and print doorstep reports
 view reports
 several project reports or " views " are available to include all , complete ,
 and open . select the view of choice by clicking " view " and then

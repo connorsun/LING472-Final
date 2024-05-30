@@ -1,4 +1,4 @@
-Subject: re : sitara release ( re : changes in global due to consent to
+  re : sitara release ( re : changes in global due to consent to
 assignment )
 changing counterparty names on sitara deal tickets has absolutely no impact
 to any downstream processes .

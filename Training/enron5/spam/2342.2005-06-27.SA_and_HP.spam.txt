@@ -1,4 +1,4 @@
-Subject: update and verify your paypal account * * *
+  update and verify your paypal account * * *
 security center
 advisory !
 we recently noticed one or more attempts to log in to your paypal account from a

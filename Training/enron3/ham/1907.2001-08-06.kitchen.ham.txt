@@ -1,4 +1,4 @@
-Subject: contract update
+  contract update
 done
 swerzbin
 crandall

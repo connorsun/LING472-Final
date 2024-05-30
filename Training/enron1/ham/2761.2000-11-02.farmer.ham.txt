@@ -1,4 +1,4 @@
-Subject: seac / hpl - freeport meter # 98 - 0435
+  seac / hpl - freeport meter # 98 - 0435
 the following deals have been created and entered in sitara effective 11 / 1 / 00
 at meter # 98 - 0435 :
 counterparty deal # nom price ( ifhsc less )

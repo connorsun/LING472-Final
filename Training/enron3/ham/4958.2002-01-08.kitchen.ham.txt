@@ -1,4 +1,4 @@
-Subject: netco power startup plan
+  netco power startup plan
 attached please find current files for :
 1 . trading counterparties
 2 . transmission counterparties

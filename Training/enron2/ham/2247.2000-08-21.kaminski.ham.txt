@@ -1,4 +1,4 @@
-Subject: long - term volatility curves
+  long - term volatility curves
 grant ,
 can research in houston put together a comparison of the long - term volatility
 curves for gas and power in north america and europe ? based on where europe

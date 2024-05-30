@@ -1,4 +1,4 @@
-Subject: warning : your mailbox is approaching the size limit
+  warning : your mailbox is approaching the size limit
 this warning is sent automatically to inform you that your mailbox is approaching the maximum size limit .
 your mailbox size is currently 93241 kb .
 mailbox size limits :

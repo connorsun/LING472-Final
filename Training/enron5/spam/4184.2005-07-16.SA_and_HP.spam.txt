@@ -1,4 +1,4 @@
-Subject: paypal - verify your account information
+  paypal - verify your account information
 security center advisory !
 paypal is committed to maintaining a safe environment for its
 community of buyers and sellers . to protect the security of your

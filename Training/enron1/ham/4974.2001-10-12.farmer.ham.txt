@@ -1,4 +1,4 @@
-Subject: fw : unify exception list
+  fw : unify exception list
 all :
 from matt ' s response it sounds like you might want to specify exception personnel for 8 - 12 , 12 thru 4 : 00 , and 4 thru 6 normal business hours and not end of the month , holidays or long weekends .
 rp

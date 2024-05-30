@@ -1,4 +1,4 @@
-Subject: new accounts # 2 c 6 e
+  new accounts # 2 c 6 e
 this is a mime message
 content - type : multipart / alternative ; boundary = " - - - - = _ nextpart _ 001 _ 0080 _ 01 bdf 6 c 7 . fabaclbo "
 content - type : text / plain ; charset = " iso - 8859 - 1 "

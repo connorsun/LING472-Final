@@ -1,4 +1,4 @@
-Subject: new su bridge
+  new su bridge
 some people are having problems getting the new monitor -
 you may not have the su bridge under your -
 start - programs - trading - sitara - su bridge monitor .

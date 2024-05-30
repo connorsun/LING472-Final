@@ -1,4 +1,4 @@
-Subject: bloomberg fees
+  bloomberg fees
 please read the following carefully and retain this information for use whenever you trade on bloomberg :
 1 . bloomberg charges a $ 15 flat broker fee .
 2 . this fee applies whether you are the aggressor or receiver of a trade .

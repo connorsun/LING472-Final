@@ -1,4 +1,4 @@
-Subject: monthly clean - up and bridge back for non - edi pipes
+  monthly clean - up and bridge back for non - edi pipes
 to help avoid unify problems during bid - week we must be keeping up with the
 business on the non - edi pipes throughout the month rather than wait until the
 end of the month to clean - up and bridge back . the it staff has identified

@@ -1,4 +1,4 @@
-Subject: gary ,
+  gary ,
 could you please remove scada / mips from the following hpl meters . these
 meters are where mid - texas interconnects with
 pg & e ' s system , and there should not be any measurement taking place on hpl .

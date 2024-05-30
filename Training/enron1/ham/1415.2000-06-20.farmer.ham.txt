@@ -1,4 +1,4 @@
-Subject: unify stress test next week with sybase 12 . 0
+  unify stress test next week with sybase 12 . 0
 yvette / pat / daren - please send this to your gas schedulers .
 hi ,
 you probably already heard . . . test of the new sybase data base release is off

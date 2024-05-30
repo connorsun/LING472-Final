@@ -1,4 +1,4 @@
-Subject: re : credit reserve simulation for ees
+  re : credit reserve simulation for ees
 one the outputs would be expected loss for each of the trials ( flat file ) and
 a graph depicting the distribution ( example below from an early owens
 illinois model )

@@ -1,4 +1,4 @@
-Subject: building a database for exception reporting
+  building a database for exception reporting
 currently , i am receiving exception reporting from many of your groups in
 excel . we have started to build a database to replace the excel reporting .
 in order to make the reporting easy on you we would like to build the

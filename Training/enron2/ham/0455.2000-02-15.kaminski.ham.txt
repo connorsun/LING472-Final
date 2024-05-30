@@ -1,4 +1,4 @@
-Subject: zero curve generator for uk gilts
+  zero curve generator for uk gilts
 anjam ,
 here is the model for fitting the term structure of uk gilts .
 the basic idea is as follows :

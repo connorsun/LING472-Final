@@ -1,4 +1,4 @@
-Subject: power spread option - curve access request
+  power spread option - curve access request
 kevin ,
 i am helping doug for building a model to price power spread options he saw
 in the market . this includes power capacity , transmission , heating rate

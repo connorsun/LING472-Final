@@ -1,4 +1,4 @@
-Subject: dpr - 8 / 24 / 00
+  dpr - 8 / 24 / 00
 the dpr for today is final and posted to the executive reports viewer .
 please note a minor change in the dpr format today . the " merchant portfolio "
 section of the dpr now displays only the totals for this portfolio . the

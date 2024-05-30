@@ -1,4 +1,4 @@
-Subject: new timesheet procedures
+  new timesheet procedures
 hello everyone :
 just when you get used to something it changes !
 as you may have heard , enron is implementing a new time entry system as part

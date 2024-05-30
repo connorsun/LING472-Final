@@ -1,4 +1,4 @@
-Subject: el paso schedule for 7 / 1 and 7 / 2 - extremely problematic
+  el paso schedule for 7 / 1 and 7 / 2 - extremely problematic
 this sheet is as complete as possible , and i am worried about it due to the following circumstances ;
 1 . the dispatch sheet that comes to real time was 25 mw flat on sunday and llh on monday more than all the preschedules that were tagged today .
 2 . the four corners values on that dispatch sheet changed between 5 : 15 and 5 : 42 , from 10 mw long to flat . i tried to resolve the four corners schedules with psco , who

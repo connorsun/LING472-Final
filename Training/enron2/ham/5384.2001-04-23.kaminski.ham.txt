@@ -1,4 +1,4 @@
-Subject: eol stuff
+  eol stuff
 vince -
 i spoke with tom , and i completely agree and would like to hand all this eol stuff over to you .
 we need a sun server to take over the task . as it happens martin lin has one in his office he ' s not using and up to the task . his box could serve sas to enron , as well as handle listening in on the eol feedds and maintaining its database .

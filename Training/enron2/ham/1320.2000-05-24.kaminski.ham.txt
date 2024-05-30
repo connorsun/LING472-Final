@@ -1,4 +1,4 @@
-Subject: friday brown bag for options pricing
+  friday brown bag for options pricing
 hello , researchers :
 this friday we have paulo issler speaking on " implied trees and edgworth
 binomial trees " .

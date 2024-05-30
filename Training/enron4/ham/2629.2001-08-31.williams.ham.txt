@@ -1,4 +1,4 @@
-Subject: re : e - request 53597 - darin presto
+  re : e - request 53597 - darin presto
 hi kate - lisa is out today . i have added the users to the appropriate groups which should give them access to the required databases . i show that their notes id ' s have alread been created - i will go ahead and drop the id ' s into the h : \ notes 4 \ data directories of the respective users . the passwords have been set to changeyourpassword - you may need to contact a floor tech to install notes on the user ' s machines and install the id required for accessing the databases .
 salman .
 from : kate symes / enron @ enronxgate on 08 / 30 / 2001 06 : 03 pm

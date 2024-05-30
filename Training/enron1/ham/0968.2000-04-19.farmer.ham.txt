@@ -1,4 +1,4 @@
-Subject: so union
+  so union
 colorado river station 7000
 total 5031 + 2100 + 2100 + 7000 = 16231
 .

@@ -1,4 +1,4 @@
-Subject: missing txu lonestar and oasis paths
+  missing txu lonestar and oasis paths
 stacey ,
 it looks like your missing paths revealed a quirk in our suppression of zero
 paths . there were 4 paths initially entered as zero , then changed to

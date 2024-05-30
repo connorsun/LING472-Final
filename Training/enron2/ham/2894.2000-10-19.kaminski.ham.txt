@@ -1,4 +1,4 @@
-Subject: organizational changes
+  organizational changes
 changes in enron ' s business require us to reevaluate how we approach the
 engineering and construction function within enron . specifically , enron
 energy services ' ( ees ) business has grown dramatically and that requires

@@ -1,4 +1,4 @@
-Subject: eol trade size discrepancies
+  eol trade size discrepancies
 vince -
 i have discovered the two sources of discrepancy in the " transaction dollars "
 on eol , between my numbers and those of eol . first , eol records all index

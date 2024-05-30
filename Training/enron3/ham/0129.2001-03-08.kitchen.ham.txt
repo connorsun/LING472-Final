@@ -1,4 +1,4 @@
-Subject: fw : aep
+  fw : aep
 it looks like eol will have a full tl link with aep in place next week . i will review this with network security and see if there are any issues . aep will still need to have their interfaces built and ready . enron should be ready to start testing our side by the end of this month and work out any issues in april .
 i talked to dawn fournier about space in three allen and they are working on trying to free up a floor . currently there is not a whole floor available . if they are successful then we will need to see what is currently set up on the floor and come up with the best plan for getting the space up and running asap . to do so we may need to provide network and telephony services instead of waiting on aep to build out their servers & install a phone switch .
 let me know if there are any questions . - tommy

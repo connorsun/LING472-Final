@@ -1,4 +1,4 @@
-Subject: weather and energy price data
+  weather and energy price data
 elena ,
 please , prepare for mulong ng and power price series .
 we can use henry hub for ng , cinergy , cobb and pv for electricity .

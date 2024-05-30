@@ -1,4 +1,4 @@
-Subject: welcome
+  welcome
 network world fusion focus : jason meserve on
 security and bug patch alert
 today ' s focus : bug alert : welcome

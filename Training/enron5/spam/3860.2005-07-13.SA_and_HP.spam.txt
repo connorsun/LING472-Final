@@ -1,4 +1,4 @@
-Subject: investor alert spni up 20 %
+  investor alert spni up 20 %
 ticker
 symbol :
 spni

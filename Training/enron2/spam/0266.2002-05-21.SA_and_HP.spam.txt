@@ -1,4 +1,4 @@
-Subject: hello
+  hello
 from = seko moshood mobutu
 tel = 234 - 1 - 776 - 2397
 dear friend

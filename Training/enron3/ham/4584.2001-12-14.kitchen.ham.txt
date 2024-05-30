@@ -1,4 +1,4 @@
-Subject: re : revised draft of the assignment and license agreement
+  re : revised draft of the assignment and license agreement
 a couple of comments on the revised form of assignment and license
 1 . this appears to allow the estate to use the software ( including the enrononline software ) and the processes and services covered by the patents for trading gas and power within north america . is this the new deal ? for the template and the wind deal ? also , does 3 . 1 ( b ) allow enron to sell the processes covered by the patents without any restriction on field of use ?
 2 . are we now going to give enron the right to sublicense and distribute source code ? i thought we were going to limit it to object code .

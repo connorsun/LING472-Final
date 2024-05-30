@@ -1,4 +1,4 @@
-Subject: eol wti maket maker simulation model
+  eol wti maket maker simulation model
 stinson ,
 i add the total p / l due to contract rollover . when the number of trades is
 large

@@ -1,4 +1,4 @@
-Subject: re : installation of new programs
+  re : installation of new programs
 i gave you local admin rights on your laptop yesterday . what you have to do
 is to log into the laptop using the local
 machine account . the id and the password is the same as your corp login now .

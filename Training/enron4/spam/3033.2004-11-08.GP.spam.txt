@@ -1,4 +1,4 @@
-Subject: medical directory charset = iso - 8859 - 1 " >
+  medical directory charset = iso - 8859 - 1 " >
 the new 2005 united states
 healthcare database .
 in a rapidly - changing industry , current healthcare information is an

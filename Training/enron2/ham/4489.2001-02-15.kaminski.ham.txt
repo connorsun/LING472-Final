@@ -1,4 +1,4 @@
-Subject: avistar users and allocated charges
+  avistar users and allocated charges
 i have several queries re the avister charges for london , primarily because
 the spreadsheet is based on a total of 24 london users . we have a total of
 14 avistar users installed in london .

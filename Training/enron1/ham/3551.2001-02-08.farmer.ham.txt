@@ -1,4 +1,4 @@
-Subject: 2 / 07 / 01 gas flow
+  2 / 07 / 01 gas flow
 hpl gas control shows that terry with tufco gas control requested an increase
 from 0 . 0 ( zero ) to 60 . 0 effective 1 : 00 pm and don with tufco gas control
 requested a cut from 60 . 0 to 0 . 0 ( zero ) effective 1 : 00 am . the nom should be

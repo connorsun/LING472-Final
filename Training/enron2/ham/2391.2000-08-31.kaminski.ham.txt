@@ -1,4 +1,4 @@
-Subject: gpcm modeler news : august 31 , 2000
+  gpcm modeler news : august 31 , 2000
 new gpcm pipeline schematics available on the web
 you can now view gpcm pipeline schematics on the web by going to the gpcm
 website , clicking " gpcm pipelines " and then clicking the code for the

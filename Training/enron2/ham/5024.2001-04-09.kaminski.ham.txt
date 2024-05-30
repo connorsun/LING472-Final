@@ -1,4 +1,4 @@
-Subject: re : generation earnings model
+  re : generation earnings model
 michelle ,
 i agree with you that we need to run at least 500 iterations . but i did not
 realize that it took 16 hours to run 100 iterations . helen and i talked

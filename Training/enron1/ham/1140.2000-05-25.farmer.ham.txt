@@ -1,4 +1,4 @@
-Subject: hpl xport ta 99 - 027 for 4 / 00 prod .
+  hpl xport ta 99 - 027 for 4 / 00 prod .
 loraine sent an allocation for fuel that is not scheduled . her schedule has
 fuel on days where there was no flow :
 day fuel

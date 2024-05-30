@@ -1,4 +1,4 @@
-Subject: > - tso 53001
+  > - tso 53001
 the following expense report is ready for approval :
 employee name : tammie schoppe
 status last changed by : automated administrator

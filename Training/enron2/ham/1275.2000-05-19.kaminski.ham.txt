@@ -1,4 +1,4 @@
-Subject: virus update : please read
+  virus update : please read
 there are many different variations of the " iloveyou " computer virus still
 being reported . the it infrastructure team is continually updating our virus
 software as new versions become available , but it is extremely important that

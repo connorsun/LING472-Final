@@ -1,4 +1,4 @@
-Subject: correlation matrix reduction
+  correlation matrix reduction
 zhiyang ,
 got your message .
 as we discussed , the best way to breakdown the big correlation matrix between

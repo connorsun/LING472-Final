@@ -1,4 +1,4 @@
-Subject: fyi : sycamore support on network planning
+  fyi : sycamore support on network planning
 fyi :
 note that the person mentioned in the text below ( ming lung lee ) is very
 experienced in traditional traffic engineering work . he comes from mci where

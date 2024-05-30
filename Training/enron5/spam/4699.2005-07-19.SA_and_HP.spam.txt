@@ -1,4 +1,4 @@
-Subject: erro no envio da mensagem
+  erro no envio da mensagem
 o servidor mail . nodel . com . br nao conseguiu enviar seu e - mail
 para um dos destinatarios . segue abaixo a relacao de erros retornados :
 - -

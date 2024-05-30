@@ -1,4 +1,4 @@
-Subject: sap business unit optimization
+  sap business unit optimization
 now that sap is in place , it ' s time to focus our attention on how to maximize
 the investment in sap for enron and for each business area . you have been
 selected ( whether officially or in an unofficial capacity ) to represent a

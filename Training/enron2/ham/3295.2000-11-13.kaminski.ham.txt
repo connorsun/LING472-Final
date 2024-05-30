@@ -1,4 +1,4 @@
-Subject: re : looking for " fat tails " in time - series for ngi - socal
+  re : looking for " fat tails " in time - series for ngi - socal
 vince ,
 i quite agree , we have to separate out price and position ,
 and that is what we have done with the historical simulations / evt ideas . we

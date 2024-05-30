@@ -1,4 +1,4 @@
-Subject: re : manual wires -
+  re : manual wires -
 mary ,
 the rate & currency business requirement is to be able to get a next day fx
 wire done through 5 : 00 pm in unify . this unify systems transaction would

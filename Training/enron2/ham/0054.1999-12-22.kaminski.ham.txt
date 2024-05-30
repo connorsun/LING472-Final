@@ -1,4 +1,4 @@
-Subject: new volatility curve generator for uk power
+  new volatility curve generator for uk power
 we have established a set of power volatility curves down to the efa / monthly
 level of detail that can be marked to market up to 6 years out . beyond this ,
 the volatility decays to what we understand to be the long - term level for

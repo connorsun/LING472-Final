@@ -1,4 +1,4 @@
-Subject: global data management - gas asset support
+  global data management - gas asset support
 in order to align the global data management responsibilities for contracts
 and facilities with the overall operations support for brian redmond ' s asset
 area , the global contracts and global facilities functions for assets have

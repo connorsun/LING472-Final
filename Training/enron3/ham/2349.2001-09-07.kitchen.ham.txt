@@ -1,4 +1,4 @@
-Subject: accrual book procedures
+  accrual book procedures
 the procedures for ensuring that all accrual books are known and captured by the appropriate parties is as follows :
 current inventory of accrual books and their contents will be provided to financial operations and risk controls by risk management
 risk management will cc : accrual book requests to financial operations to ensure that they are aware when new books are created

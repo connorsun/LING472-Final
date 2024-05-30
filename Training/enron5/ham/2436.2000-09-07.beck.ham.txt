@@ -1,4 +1,4 @@
-Subject: four new graphs
+  four new graphs
 we have created four additional graphs to be published daily along with the
 dpr :
 return on var ( rovar )

@@ -1,4 +1,4 @@
-Subject: mg middle office integration : weekly newsletter
+  mg middle office integration : weekly newsletter
 fyi -
 also , mike and i are working with tim to integrate the mg dpr into ours .
 regards

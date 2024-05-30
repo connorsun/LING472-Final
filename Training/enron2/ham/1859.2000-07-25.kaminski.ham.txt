@@ -1,4 +1,4 @@
-Subject: aga forecast for 7 / 21 is 42
+  aga forecast for 7 / 21 is 42
 vince & stinson ,
 the number comes out from the time series model is 42 , compared with mike ' s
 61 .

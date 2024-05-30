@@ -1,4 +1,4 @@
-Subject: alert : spam prevention
+  alert : spam prevention
 cllck the stop sign to stop
 spam once and for all !
 eliminates porn

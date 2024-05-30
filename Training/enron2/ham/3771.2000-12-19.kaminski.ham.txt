@@ -1,4 +1,4 @@
-Subject: re : releasing different versions of vatrfacs code
+  re : releasing different versions of vatrfacs code
 winston and jin ,
 for last half year the following developments were implemented by jin for
 vatrfacs code

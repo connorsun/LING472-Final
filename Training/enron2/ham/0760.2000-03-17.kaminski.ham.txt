@@ -1,4 +1,4 @@
-Subject: re : eott options
+  re : eott options
 tracy ,
 attached is a spreadsheet model which contains both black - scholes and
 american option valuation models . these are the generally accepted methods

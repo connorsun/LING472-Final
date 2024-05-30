@@ -1,4 +1,4 @@
-Subject: calculating bid - ask prices
+  calculating bid - ask prices
 this is about enron movie trading business where we are a market maker for trading future of a movie ' s gross box office receipt . rich sent to many people a writing explaining his movie trading idea and asked us to provide some feedback .
 i think the idea ( see below ) might be applicable to other parts of enron . we can call it " dynamic bid - ask price process " .
 in fact , we can set that the bidding period is closed when no new bid is submitted to the system within a specified amount of time . the final ( clearing ) bid and ask prices are just the last " tentative " price shown to the public before the bidding period ends . ( so the customers can see the final price before the market close and can revise their bids if they wish . )

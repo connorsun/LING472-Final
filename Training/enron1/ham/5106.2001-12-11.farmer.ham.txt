@@ -1,4 +1,4 @@
-Subject: fw : reconnect vpn
+  fw : reconnect vpn
 everyone ' s remote access has been changed due to security reasons . brandee is in the process of initiating a e - request for each of you . once you get approved you should get the following email .
 in addition , each of you who uses a laptop will need to connect the laptop to the network here at the office and log on as yourself . this will syncrize your profile on that laptop .
 please pass the information onto your staff .

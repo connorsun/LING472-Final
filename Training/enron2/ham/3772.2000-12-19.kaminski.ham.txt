@@ -1,4 +1,4 @@
-Subject: re : testing ir & fx var
+  re : testing ir & fx var
 nick and winston ,
 i understand that ir & fx var numbers are calculated every day in risktrac .
 this results are overwritten

@@ -1,4 +1,4 @@
-Subject: gtv weekly status update
+  gtv weekly status update
 gtv status meeting attendees : dave nommensen , francis lim , jeremy wong , bill fortney , nayan dattani , russ severson , narasim kasaru , mike swaim , chuck ames , geoff storey
 accomplishments :
 ? incorporating physcial deal positions in tds :

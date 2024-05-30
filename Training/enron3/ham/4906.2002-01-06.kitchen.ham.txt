@@ -1,4 +1,4 @@
-Subject: re : service bureau prohibitions
+  re : service bureau prohibitions
 hi ursula ,
 i ' ll ask bob hillier to find out who our legato contact is . clearly , we need this backup software on day 1 . we will also look into the rational relationship . it is not as critical as it is used for development ( we have licenses for rose and for clearcase and clearquest ) .
 - - jay

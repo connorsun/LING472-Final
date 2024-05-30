@@ -1,4 +1,4 @@
-Subject: re : portcalc methodology
+  re : portcalc methodology
 keith ,
 both power and emrs use a c library provided ( also implemented ) by research
 group . the methodology of greek calculations in power portcalc has not

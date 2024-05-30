@@ -1,4 +1,4 @@
-Subject: re : fw : mtg . scheduled
+  re : fw : mtg . scheduled
 frank ,
 regarding simulating power prices in var we might discuss the following items
 and show some results :

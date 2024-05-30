@@ -1,4 +1,4 @@
-Subject: sales down ? accept credit cards font - size : 12 px ; color : # 000080 }
+  sales down ? accept credit cards font - size : 12 px ; color : # 000080 }
 . footer { font - family : verdana , arial , helvetica , sans - serif ; font - size : 10 px ; color : # 000000 }
 a : link { text - decoration : none ; color : # 0808 fl }
 a : visited { text - decoration : none ; color : # 0808 fl }

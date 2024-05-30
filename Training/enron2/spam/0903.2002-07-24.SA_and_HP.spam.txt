@@ -1,4 +1,4 @@
-Subject: isa article on embedded real - time linux automation applications . gji
+  isa article on embedded real - time linux automation applications . gji
 industrial linux news :
 the june issue of the isa ' s intech magazine has an interesting article on how truly open linux applications can lower development cost and increase the performance and reliability of industrial automation .
 a copy of the the article can be found at : http : / / www . sixnet - io . com / html _ files / web _ articles / linux _ article _ info . htm

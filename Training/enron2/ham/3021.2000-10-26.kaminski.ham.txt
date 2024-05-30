@@ -1,4 +1,4 @@
-Subject: re : trying to find fat tails
+  re : trying to find fat tails
 naveen ,
 i was trying to find " fat tails " . i looked at ng prompt month prices '
 log - returns for 5 years 9 months .

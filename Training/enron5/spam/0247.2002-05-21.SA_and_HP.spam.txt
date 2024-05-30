@@ -1,4 +1,4 @@
-Subject: hello $ name
+  hello $ name
 return - path :
 received : from [ 216 . 35 . 187 . 6 ] ( helo webmillion . com )
 by mxl 2 . clusterl . charter . net ( communigate pro smtp 3 . 5 . 9 )

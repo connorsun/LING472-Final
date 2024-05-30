@@ -1,4 +1,4 @@
-Subject: enrononline internal launch for phase 2
+  enrononline internal launch for phase 2
 on wednesday , sept . 13 , we will be using the new version of enrononline
 ( website and stack manager ) for all north american internal users .
 please log into the temporary website : http : / / prod . enrononline . com ( no www . )

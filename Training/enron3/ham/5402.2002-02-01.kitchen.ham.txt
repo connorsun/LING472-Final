@@ -1,4 +1,4 @@
-Subject: description of ubs deal
+  description of ubs deal
 louise - -
 i need to understand exactly what data is and what data is not being transferred from enron to ubs . if any of the data is viewed by ferc as being jurisdictional assets , than enron would need to inform ferc of that transfer before the transfer . clearly , customer specific data will create more issues than generic market information . i need to check what happens if you have deleted the counterparty names but still show detailed trading data .
 who can help me get a better handle on this on monday ?

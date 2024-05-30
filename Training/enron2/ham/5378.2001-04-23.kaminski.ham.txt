@@ -1,4 +1,4 @@
-Subject: eol stuff
+  eol stuff
 vince -
 i spoke with tom , and i completely agree and would like to hand all this eol
 stuff over to you .

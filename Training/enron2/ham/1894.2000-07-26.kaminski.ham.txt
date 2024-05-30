@@ -1,4 +1,4 @@
-Subject: update on mg var model
+  update on mg var model
 hi vince ,
 thanks for the e - mail . we have included live links to price curves through
 reuters quotes via telerate bridge but we still have static curves for gold

@@ -1,4 +1,4 @@
-Subject: i finally was able to implement the new factors for power , now know as project x . if you have time , i would like to give you a down load on the work involved the last few months cleaning things up . overall var is reduced . i ' ve included some highlights below .
+  i finally was able to implement the new factors for power , now know as project x . if you have time , i would like to give you a down load on the work involved the last few months cleaning things up . overall var is reduced . i ' ve included some highlights below .
 ? changed correlation measure to fixed contract instead of using prompt price history
 ? extended factors out past prompt month to 24 months ( power only ) , ( previously was for prompt month only )
 o repeating last 12 months ( seasonality ) for 120 months , and scaled by ff vol

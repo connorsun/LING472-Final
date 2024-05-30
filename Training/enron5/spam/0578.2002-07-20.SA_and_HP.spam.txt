@@ -1,4 +1,4 @@
-Subject: adv : direct email blaster , email addresses extractor , maillist verify , maillist manager . . . . . . . . . . .
+  adv : direct email blaster , email addresses extractor , maillist verify , maillist manager . . . . . . . . . . .
 direct email
 blaster
 the program will send mail at the

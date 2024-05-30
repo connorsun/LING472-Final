@@ -1,4 +1,4 @@
-Subject: trade counts
+  trade counts
 here are the counts of trades executed before 4 : 00 pm , each day , through the month of october :
 trade date trade cnt
 10 / 1 / 2001 5245

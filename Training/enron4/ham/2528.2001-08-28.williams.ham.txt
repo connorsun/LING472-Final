@@ -1,4 +1,4 @@
-Subject: termination of coordinated operation of controllable devices
+  termination of coordinated operation of controllable devices
 system notification : at 1632 pdt pac sent the following wsccnet message : in
 accordance with wscc unscheduled flow reduction procedure , this message is
 to advise you that the request for coordinated operation of controllable

@@ -1,4 +1,4 @@
-Subject: hpl other alternatives
+  hpl other alternatives
 here are a few alternatives to handling lal echterhoff ' s situation :
 ( 1 ) we give cash difference in black - scholes value between one year and three year options calculated as of the termination date of 5 / 31 / 01 . the analysis isn ' t very pretty : the total difference for all affected shares ( 165 , 000 ) is only $ 1652 . these options are so far in the money that the time value is de minimus .
 ( 2 ) we could have them cancel their old options and purchase on the open market some options with longer terms . the lowest strike price available for january 04 leaps is $ 30 and the term still isn ' t quite long enough - most affected options have a strike price between $ 15 and $ 20 . this alternative would need tax , accounting , and sec research and would cost about $ 4 mm in total .

@@ -1,4 +1,4 @@
-Subject: ercot orig - sepol ytd
+  ercot orig - sepol ytd
 pretty much correct . actual is :
 curry $ 20 , 439 , 468
 sukaly $ 0 ( somehow 4 midmarketing deals i did got credited to sukaly so i moved the $ 27 , 602 to me ! )

@@ -1,4 +1,4 @@
-Subject: re : gas daily options revaluation
+  re : gas daily options revaluation
 this is to inform you that we are rolling out changes to the gas daily option
 pricing model . currently the system is not properly pricing index puts and
 calls at locations with gas daily index premiums or discounts ( puts and calls

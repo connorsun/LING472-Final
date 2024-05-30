@@ -1,4 +1,4 @@
-Subject: new storage flag
+  new storage flag
 we are going to add a new drop down flag to storage in sitara to
 differentiate the difference between physical and synthetic storage - as each
 are

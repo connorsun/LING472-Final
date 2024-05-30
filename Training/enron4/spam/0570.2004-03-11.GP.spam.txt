@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ management @ demokritos . gr ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ management @ demokritos . gr ]
 from paliourg @ iit . demokritos . gr thu mar 11 12 : 30 : 09 2004
 received : from efthimiop _ dd ( [ 143 . 233 . 247 . 228 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id i 2 bau 9 yo 4000

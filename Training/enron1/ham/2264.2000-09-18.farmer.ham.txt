@@ -1,4 +1,4 @@
-Subject: revision # 1 - enron / hpl actuals for sept . 15 - 17 , 2000
+  revision # 1 - enron / hpl actuals for sept . 15 - 17 , 2000
 sept 17 , 2000
 teco tap 51 . 667 / hpl gas daily ; 25 . 000 / enron
 ls hpl lsk ic 15 . 000 / enron

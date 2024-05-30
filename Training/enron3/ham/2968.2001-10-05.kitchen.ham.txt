@@ -1,4 +1,4 @@
-Subject: email retention policy
+  email retention policy
 this is a reminder of enron ' s email retention policy . the email retention policy provides as follows :
 message location - maximum retention
 inbox - 30 days

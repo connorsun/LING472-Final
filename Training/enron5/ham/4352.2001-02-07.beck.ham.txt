@@ -1,4 +1,4 @@
-Subject: active / inactive books website
+  active / inactive books website
 we are currently in the process of creating a website for each of the book
 administrators to maintain the active / inactive status of their books . this
 website will also will allow the book administrators to check their post id ' s

@@ -1,4 +1,4 @@
-Subject: revision - enron / hpl actuals for sept . 8 - 10 , 2000
+  revision - enron / hpl actuals for sept . 8 - 10 , 2000
 september 8 , 2000
 teco tap 50 . 000 / hpl iferc ; 25 . 000 / enron
 ls hpl lsk ic 15 . 000 / enron

@@ -1,4 +1,4 @@
-Subject: eol wti historical trade simulation - more profitable trading
+  eol wti historical trade simulation - more profitable trading
 strategy
 please ignor my previous mail regarding the same issue , which contains some
 typos .

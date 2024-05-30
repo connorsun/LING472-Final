@@ -1,4 +1,4 @@
-Subject: re : final pivot table for mg metals globals positions data
+  re : final pivot table for mg metals globals positions data
 dear all ,
 please see attached spreadsheet - we will have to think of a way to automate
 the position update - right now it ' s a manual process to convert the text

@@ -1,4 +1,4 @@
-Subject: re : enron exotica options library
+  re : enron exotica options library
 patrick ,
 we have those two models in the exotica library . you need to add exotica . xll
 located in o : \ research \ exotica \ xll to your excel before you can use the

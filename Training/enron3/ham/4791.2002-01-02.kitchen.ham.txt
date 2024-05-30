@@ -1,4 +1,4 @@
-Subject: re : re - start / integration planning
+  re : re - start / integration planning
 what do we do about the pipelines ? do we include them in our customer phases ?
 thanks ,
 mike

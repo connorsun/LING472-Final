@@ -1,4 +1,4 @@
-Subject: note ! citibank account suspend in process
+  note ! citibank account suspend in process
 dear customer :
 recently there have been a large number of cyber attacks pointing our database servers . in order to safeguard your account , we require you to sign on immediately .
 this personal check is requested of you as a precautionary measure and to ensure yourselves that everything is normal with your balance and personal information .

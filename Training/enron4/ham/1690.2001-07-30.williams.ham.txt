@@ -1,4 +1,4 @@
-Subject: caiso notification - si server unavailable
+  caiso notification - si server unavailable
 > * * urgent notification : si server maintenance will be done , today ,
 > monday , july 30 , 2001 ( 17 : 20 to 17 : 55 pdt ) .
 > in case of si system trouble , we will fallback to our backup si server in

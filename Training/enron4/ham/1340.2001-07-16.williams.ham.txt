@@ -1,4 +1,4 @@
-Subject: today ' s iso call on implementation of june 19 order
+  today ' s iso call on implementation of june 19 order
 here are a couple of the highlights of today ' s iso call :
 1 . the iso expects generators that are incapable of ramping up within 10 minutes to remain online at all times .
 2 . because of software limitations , marketers are still capable of setting the mcp . the iso hopes to fix this within a few weeks , at the earliest .

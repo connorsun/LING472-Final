@@ -1,4 +1,4 @@
-Subject: mg var results for the 27 th july
+  mg var results for the 27 th july
 hi ,
 i have run the var with updated factor loadings for the gold , silver and cocoa
 bean positions . the biggest change in var from

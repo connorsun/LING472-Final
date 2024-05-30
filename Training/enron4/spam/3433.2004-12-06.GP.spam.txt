@@ -1,4 +1,4 @@
-Subject: confirmation
+  confirmation
 congratulations ! paypal has successfully charged $ 175 to your credit
 card . your order tracking number is a 866 deco , and your item will be shipped
 within three business days .

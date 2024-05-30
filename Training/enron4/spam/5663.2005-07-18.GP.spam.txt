@@ -1,4 +1,4 @@
-Subject: usb fingerprint id @ $ 38 . 00
+  usb fingerprint id @ $ 38 . 00
 defcon fingerprint authenticator with 2 - port usb
 hub
 retail

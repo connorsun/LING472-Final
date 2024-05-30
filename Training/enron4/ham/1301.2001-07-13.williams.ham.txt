@@ -1,4 +1,4 @@
-Subject: continuing testing of preschedule workspace , path confirmation and
+  continuing testing of preschedule workspace , path confirmation and
 path cut software
 i am working in the target date of june 20 th . today i added schedules from palo verde and the entire midc sheet to the testing group . once cob is added , we will have pretty much an average daily volume .
 here is my attached worksheet for mid c

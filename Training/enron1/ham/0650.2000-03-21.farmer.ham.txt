@@ -1,4 +1,4 @@
-Subject: re : pg & e texoma volumes
+  re : pg & e texoma volumes
 daren and lauri :
 we do have a problem with some of our mirrored meters . when mips receives an
 " incomplete " from the parent meter it sends a - 0 - to pops . yes , this is a

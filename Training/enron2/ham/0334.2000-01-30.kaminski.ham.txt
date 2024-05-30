@@ -1,4 +1,4 @@
-Subject: fwd : credit applicatiions in grms
+  fwd : credit applicatiions in grms
 return - path :
 received : from rly - yho 3 . mx . aol . com ( rly - yho 3 . mail . aol . com [ 172 . 18 . 147 . 35 ] )
 by air - yho 3 . mail . aol . com ( v 67 _ bl . 21 ) with esmtp ; fri , 28 jan 2000 17 : 34 : 19

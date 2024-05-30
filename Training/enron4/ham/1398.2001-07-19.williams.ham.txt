@@ -1,4 +1,4 @@
-Subject: * * * * voice mail problems * * * *
+  * * * * voice mail problems * * * *
 pge has informed us that they have a couple of voice mail cards that are down .
 what this means :
 if a call that is going to voice mail hits one of these cards , the call will continue to ring without ever getting to voice mail .

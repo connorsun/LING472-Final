@@ -1,4 +1,4 @@
-Subject: update
+  update
 hello all ,
 the program for the 2000 texas finance festival has been formalized and can
 be found on our web site at

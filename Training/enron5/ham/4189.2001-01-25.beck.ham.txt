@@ -1,4 +1,4 @@
-Subject: sec var
+  sec var
 gary and georgeanne let me know that all but 487 shares of eog are hedged
 ( without the eog leg , the cerberus total return swap is really only a loan ,
 and its var is about $ 500 thousand ) . i have recalculated , and the total

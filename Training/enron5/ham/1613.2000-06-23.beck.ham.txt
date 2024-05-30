@@ -1,4 +1,4 @@
-Subject: re : replied resume
+  re : replied resume
 vince / sally
 it appears that the implied vol on this one is quite high . perhaps we can
 lower our var using historical vols .

@@ -1,4 +1,4 @@
-Subject: re : var calibration issues
+  re : var calibration issues
 we are proposing the following changes to the calculation of ng correlations :
 1 . weight the data set ( 3 calendar months ) used in calculating correlations
 ( most recent data weighed heavier )

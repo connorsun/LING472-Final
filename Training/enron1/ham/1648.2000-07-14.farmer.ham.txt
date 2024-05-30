@@ -1,4 +1,4 @@
-Subject: new paycheck information !
+  new paycheck information !
 introducing your first sap paycheck !
 this is the first payroll processed in sap for all employees paid out of
 corporate payroll . you may notice some changes in the way information is

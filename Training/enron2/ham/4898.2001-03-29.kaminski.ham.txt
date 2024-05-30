@@ -1,4 +1,4 @@
-Subject: re : implementing clustering and jumps for power
+  re : implementing clustering and jumps for power
 frank ,
 our var team has been looking at different ways to implement clustering and
 jumps for power prices simulation

@@ -1,4 +1,4 @@
-Subject: mail delivery failed : returning message to sender
+  mail delivery failed : returning message to sender
 this message was created automatically by mail delivery software ( exim ) .
 a message that you sent could not be delivered to one or more of its
 recipients . this is a permanent error . the following address ( es ) failed :

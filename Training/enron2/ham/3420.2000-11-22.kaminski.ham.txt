@@ -1,4 +1,4 @@
-Subject: backwardation hedge strategy
+  backwardation hedge strategy
 i have completed an evaluation of a " backwardation " hedge strategy requested
 by wendy king . the stratregy is intended to hedge oil inventories and is
 based of trading nymex futures and options .

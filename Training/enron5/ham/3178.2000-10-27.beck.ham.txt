@@ -1,4 +1,4 @@
-Subject: sec var
+  sec var
 the good news is that september vars are little changed from the june numbers .
 the bad news is that the new power company went public in october . the stock
 is very volatile ( about 180 % per year ) . the warrants we inserted into the

@@ -1,4 +1,4 @@
-Subject: re : estimating tail of distribution and additional risk measures
+  re : estimating tail of distribution and additional risk measures
 naveen ,
 the " analytical var " approach is working for equity portfolio .
 it gives us the tool to examine the tails ' behavior for this portfolio and

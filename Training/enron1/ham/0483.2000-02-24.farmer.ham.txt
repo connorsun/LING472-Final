@@ -1,4 +1,4 @@
-Subject: koch midstream services
+  koch midstream services
 fyi , i was watching the position manager for ena and noticed some business
 transactions on this pipeline . this pipeline was bought by duke energy field
 services effective 8 / 1 / 99 . all hplc transactions were moved to that pipe at

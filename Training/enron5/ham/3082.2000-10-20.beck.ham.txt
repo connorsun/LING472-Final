@@ -1,4 +1,4 @@
-Subject: status - " pcg wish list "
+  status - " pcg wish list "
 i just wanted to give you an update on where we are on the pcg wish list .
 we discussed about a month ago the fact that we had close to 200 items on our
 list of development / enhancements to our applications . we met on numerous

@@ -1,4 +1,4 @@
-Subject: re : gtv weekly status update
+  re : gtv weekly status update
 louise ,
 attached is a plan for the roll - out of windows 2000 for the trading groups for which tibco 6 . x has been scripted .
 richard burchfield and i are currently investigating the state of tibco 5 . x on the windows nt 4 . 0 plaftorm that is still being used , and will get back to you when we have determined if the tibco 6 . x solution can be incorprated into a script before the actual roll - out of win 2 k .

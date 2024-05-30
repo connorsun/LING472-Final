@@ -1,4 +1,4 @@
-Subject: 
+  
 to _ cc _ default _ handler
 subject : mary , so nice and cute !
 date : rnd _ date _ time

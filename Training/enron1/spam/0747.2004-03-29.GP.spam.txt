@@ -1,4 +1,4 @@
-Subject: usb charset = us - ascii " >
+  usb charset = us - ascii " >
 t o d a y
 ' s s p e c i a l
 usb firewire

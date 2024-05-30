@@ -1,4 +1,4 @@
-Subject: video conference scheduling
+  video conference scheduling
 in order to improve the video conferencing services offered to the enron
 community , the video conference group will be implementing the following
 procedural changes . these changes will be effective immediately .

@@ -1,4 +1,4 @@
-Subject: var for cob 28 th july 2000
+  var for cob 28 th july 2000
 hi all ,
 i have run the var model for the positions at close fo business 28 th of july .
 the model is attached below .

@@ -1,4 +1,4 @@
-Subject: re : testiing component var
+  re : testiing component var
 naveen ,
 as we discussed yesterday , i would like to see the results of components var
 testing .

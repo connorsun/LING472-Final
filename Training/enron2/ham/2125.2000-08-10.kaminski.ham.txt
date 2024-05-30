@@ -1,4 +1,4 @@
-Subject: risk bucketing for p / l
+  risk bucketing for p / l
 ken and greg ,
 what we have been doing is absoutely fine under the assumption that the market
 conditions move relatively small ( where taylor series has fast convergence ) .

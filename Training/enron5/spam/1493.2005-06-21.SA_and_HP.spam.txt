@@ -1,4 +1,4 @@
-Subject: urgent paypal security notification
+  urgent paypal security notification
 security center advisory !
 we recently noticed one or more attempts to log in to your paypal account from a
 foreign ip address and we have reasons to belive that your account was hijacked

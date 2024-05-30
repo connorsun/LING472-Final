@@ -1,4 +1,4 @@
-Subject: activation of price limit orders
+  activation of price limit orders
 in preparation for going live with the new version of enrononline , please set
 your products to allow price limit orders . you can do this by :
 1 ) highlighting the product and selecting " product properties "

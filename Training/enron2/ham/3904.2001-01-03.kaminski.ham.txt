@@ -1,4 +1,4 @@
-Subject: re : uk portfolios and books setup in risktrac
+  re : uk portfolios and books setup in risktrac
 tanya
 the books were set up incorrectly when the spreadsheet feeds were
 implemented . this has since been corrected . currently the european risk trac

@@ -1,4 +1,4 @@
-Subject: short term private firm model : static historical
+  short term private firm model : static historical
 snapshot + performance data for model development
 mike , scott , eric ,
 after brainstorming and discussing further on data here , we think that our final specifications for modelling data requirement need to be as follows :

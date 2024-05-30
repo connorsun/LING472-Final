@@ -1,4 +1,4 @@
-Subject: enhanced energy scheduler tool in production today
+  enhanced energy scheduler tool in production today
 message sent from the pjm - customer - info mailing list at
 pjm - customer - info @ majordomo . pjm . com :
 the new pjm enhanced energy scheduler ( ees ) will go into production at 10 : 00

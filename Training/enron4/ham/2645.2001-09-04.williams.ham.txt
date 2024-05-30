@@ -1,4 +1,4 @@
-Subject: re : prior month adjustments for whourly book
+  re : prior month adjustments for whourly book
 questions -
 617161 - $ 900 debit due to volume change
 should have offsetting $ 900 credit for volume change to deal 617156

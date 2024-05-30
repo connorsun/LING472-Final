@@ -1,4 +1,4 @@
-Subject: it infrastructure plan
+  it infrastructure plan
 kim mentioned that you ' re on the phone . jenny designated the disaster recovery piece ( $ 10 m ) and some other items as capital expenses , and we neglected to include this in our schedule . the total capital budget is $ 14 . 7 m . i presume that you ' ll want to include this amount ?
 what we currently have is expense plan of 24 . 9 m with a 1 . 2 multiple equals 30 . 2 m .
 i think we ' ll want to amend it :

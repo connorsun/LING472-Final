@@ -1,4 +1,4 @@
-Subject: margin only 11 - 05 . xls
+  margin only 11 - 05 . xls
 futures margin requirements
 wire date 11 / 6 / 01
 stmt date 11 / 5 / 01

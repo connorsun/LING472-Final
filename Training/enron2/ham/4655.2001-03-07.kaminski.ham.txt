@@ -1,4 +1,4 @@
-Subject: re : " expected tail loss " for equity portfolio
+  re : " expected tail loss " for equity portfolio
 everybody ,
 i attached here the equity portfolio var spreadsheet model ( version x ) .
 the improvement over the previous version ( 1 x ) is that it calculates

@@ -1,4 +1,4 @@
-Subject: re : suggestion : implementing var based on non - normal log - returns
+  re : suggestion : implementing var based on non - normal log - returns
 simulations
 everybody ,
 we were talking for a while about using non - normal distributions in the

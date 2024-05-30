@@ -1,4 +1,4 @@
-Subject: controls needed to ensure cashflows are received by infinity update
+  controls needed to ensure cashflows are received by infinity update
 we still do not have a good cash flow from erms . several books which were
 changed on friday did not get added back by risk controls in the clean - up
 process this morning , including the book , mahii , which had the $ 650 milllion

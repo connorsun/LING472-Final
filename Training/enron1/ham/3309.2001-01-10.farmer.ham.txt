@@ -1,4 +1,4 @@
-Subject: xms - new system
+  xms - new system
 effective : we have a new system to prepare expense reports called :
 expense reporting system : xms
 in order for us ( your assistants ) to prepare your expense reports you will

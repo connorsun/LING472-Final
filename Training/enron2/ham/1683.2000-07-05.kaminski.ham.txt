@@ -1,4 +1,4 @@
-Subject: re : eol phase 2
+  re : eol phase 2
 deal all ,
 i have written the option pricing formula for european ( euro ) , american
 ( amer ) and asian ( agc ) options .

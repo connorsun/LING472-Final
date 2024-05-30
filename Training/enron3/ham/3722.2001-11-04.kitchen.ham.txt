@@ -1,4 +1,4 @@
-Subject: request
+  request
 hi louise ,
 beth has reorganized the front and back office groups enough now that i don ' t know all of the key individuals anymore . but in most cases , there is someone i trust still around who knows the details about a particular system , so i ' ve tried to identify that person and how many extra people ( probably best chosen by that individual ) would be needed at a minimum .
 i have included at the bottom a small list of " cannot lose " individuals . in such a small organization , it would be critical , of course , to have people that can solve problems in any system . if enrononline was shut down , i would also put belmont , guadarrama , hillier , jenson in the " cannot lose " group , and i would make sure that amanullah was one of the remaining oracle dbas .

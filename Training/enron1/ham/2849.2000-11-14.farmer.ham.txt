@@ -1,4 +1,4 @@
-Subject: beaumont methanol - meter 1428 - october 2000
+  beaumont methanol - meter 1428 - october 2000
 ladies and gents :
 on sat oct 21 , hpl meter # 1428 had a malfunction , and started flowing at a
 very high rate , way over the nominated rate of 18 , 000 / d ( gas control will

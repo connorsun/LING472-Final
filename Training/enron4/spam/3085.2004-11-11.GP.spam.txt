@@ -1,4 +1,4 @@
-Subject: hung over at shcool ?
+  hung over at shcool ?
 body bgcolor = 000000 text = 000000
 table cellpadding = 10 border = 1 align = centertrtd bgcolor = # ffffff width = 350
 centera href = http : / / helcfim . daddychoice . info / ? size = + 2 color = blue face = arialwe ' ve been preventing hangovers in japan for

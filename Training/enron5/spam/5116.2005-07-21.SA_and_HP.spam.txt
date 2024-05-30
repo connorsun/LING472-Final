@@ -1,4 +1,4 @@
-Subject: kinja account activation
+  kinja account activation
 hello , iztari :
 thanks for creating an account . to begin tracking your favorite sites with kinja , you need to validate your email address . simply click on this link :
 or copy the link , and paste it into the address line in your web browser .

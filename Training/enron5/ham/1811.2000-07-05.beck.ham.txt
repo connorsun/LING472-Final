@@ -1,4 +1,4 @@
-Subject: power port calc issues
+  power port calc issues
 the power risk group continues to experience severe instability with the
 power port calc . the same memory allocation issue which i discussed in the
 message below is not resolved ( we have had this problem for about four months

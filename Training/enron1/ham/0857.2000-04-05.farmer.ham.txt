@@ -1,4 +1,4 @@
-Subject: deletion of your enrononline user id
+  deletion of your enrononline user id
 password deletion
 it has been noted that many users have passwords which match or are similar
 to their user id ' s for internal enrononline applications ( stack manager ,

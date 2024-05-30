@@ -1,4 +1,4 @@
-Subject: unify enhancement tracking list for ena upstream
+  unify enhancement tracking list for ena upstream
 hi everyone ,
 see attached a listing of the documented enhancements that pertain to ena
 upstream . what we need to do next is develop an impact for each one that

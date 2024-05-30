@@ -1,4 +1,4 @@
-Subject: transstatus 7568 received
+  transstatus 7568 received
 reservation status has changed . details of the reservation are listed below :
 assignment _ ref = 7568
 seller _ code = tepc

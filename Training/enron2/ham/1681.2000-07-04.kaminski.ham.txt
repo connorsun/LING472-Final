@@ -1,4 +1,4 @@
-Subject: re : mg integration support - daily update # 6
+  re : mg integration support - daily update # 6
 hi richard ,
 lloyd fleming introduced me to the key personnel on the trading and risk side
 at mg today ; i spent most of today discussing forward curves and option

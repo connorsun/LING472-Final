@@ -1,4 +1,4 @@
-Subject: fw : structuring resources
+  fw : structuring resources
 are there similar models and applications on the power side that we need to include ?
 - - - - - original message - - - - -
 from : fallon , susan

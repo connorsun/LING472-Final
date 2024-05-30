@@ -1,4 +1,4 @@
-Subject: hpl optimization
+  hpl optimization
 team ,
 as i mentioned in our hpl staff meeting we are investigating the merits of
 entering into a joint venture or another transaction structure that will

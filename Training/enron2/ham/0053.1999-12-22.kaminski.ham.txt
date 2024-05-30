@@ -1,4 +1,4 @@
-Subject: re : working gas price model
+  re : working gas price model
 vince -
 i have a simplified version of brad ' s model in mind .
 the " no arbitrage " condition equates trading margins across the country .

@@ -1,4 +1,4 @@
-Subject: 6 / 30 aga forecast at 66
+  6 / 30 aga forecast at 66
 mike ,
 my number for next week is 66 ( from seasonal holt - winter model , shw ) .
 i am also fitting aga to an arimax model . as discussed , i need weighted

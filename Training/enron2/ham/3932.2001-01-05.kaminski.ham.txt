@@ -1,4 +1,4 @@
-Subject: power plant model
+  power plant model
 jeff ,
 a few comments on the model :
 1 . we have a few reservations about some features of the model but would like

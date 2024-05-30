@@ -1,4 +1,4 @@
-Subject: re : var priorities
+  re : var priorities
 vince
 thanks for the quick response . agree on # 5 just bear in mind it says scope
 not implement so it is more of a development of a project .

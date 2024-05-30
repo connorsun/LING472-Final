@@ -1,4 +1,4 @@
-Subject: fw : matrix of long - term ( exotic ) options trading
+  fw : matrix of long - term ( exotic ) options trading
 hi ,
 it was nice meeting you all on yesterday at your weekly meeting .
 as promised i am attaching a " shopping list " ( or a " cheat sheet " - according to heather ) of the various options pricing models we have at our disposal on the options trading desk .

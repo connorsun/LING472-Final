@@ -1,4 +1,4 @@
-Subject: mail message detected as spam
+  mail message detected as spam
 this is an informative message sent by kerio mailserver 6 . 0 . 6 at mailhost .
 your mail message did not pass the server spam filter .
 the message headers follow :

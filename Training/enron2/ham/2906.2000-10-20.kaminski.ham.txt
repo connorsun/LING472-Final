@@ -1,4 +1,4 @@
-Subject: enron ' s new weather system , courtesy the research dept .
+  enron ' s new weather system , courtesy the research dept .
 v
 last night , i tested our new system for real - time surveillance and messaging
 of the weather , and it delivers the data to desktops throughout the building

@@ -1,4 +1,4 @@
-Subject: alert : spam prevention
+  alert : spam prevention
 r 3 move
 - - = = = = = _ 109958888429414 = _
 content - type : text / html ; charset = us - ascii

@@ -1,4 +1,4 @@
-Subject: failure notice
+  failure notice
 this is the mail delivery agent at messagelabs . com .
 i was not able to deliver your message to the following addresses .
 :

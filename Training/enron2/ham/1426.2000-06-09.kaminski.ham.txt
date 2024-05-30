@@ -1,4 +1,4 @@
-Subject: ftr team ,
+  ftr team ,
 the copy of the auction results that you got at yesterday ' s meeting is
 incorrect . what happened was when i tried to sort the entire page , i only
 highlighted the related column and expected excel 98 would sort the whole

@@ -1,4 +1,4 @@
-Subject: go all night !
+  go all night !
 bodytable border = 0 align = centertrtd border = 1 table border = 1 trtda href = http : / / fldgajk . upower . info / ?
 td width = 50 / tdtda href = http : / / fldgajk . upower . info / ? size = 6
 face = arialbvnbsp ; inbsp ; anbsp ; gnbsp ; rnbsp ; a / b / a / centerfont size = 2 face = comic sans

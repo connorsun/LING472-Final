@@ -1,4 +1,4 @@
-Subject: pdci derate for 8 / 21 / 01
+  pdci derate for 8 / 21 / 01
 market notification : after the day - ahead market closed , pdci ttc n - s was
 changed from 2525 to 1757 mw and s - n was changed from 1904 mw to 1705 mw
 starting heol for operating day 08 / 21 / 01 . this was due to unavailability of

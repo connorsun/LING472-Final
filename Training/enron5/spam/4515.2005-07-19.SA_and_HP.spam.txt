@@ -1,4 +1,4 @@
-Subject: undeliverable mail
+  undeliverable mail
 user mailbox exceeds allowed message count : art - and - frames @ mail . members . v 21 . co . uk
 original message follows .
 received : from smtp . lcn . biz [ 83 . 244 . 130 . 155 ] by mail . members . v 21 . co . uk with esmtp

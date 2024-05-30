@@ -1,4 +1,4 @@
-Subject: start date : 1 / 30 / 02 ; hourahead hour : 9 ;
+  start date : 1 / 30 / 02 ; hourahead hour : 9 ;
 start date : 1 / 30 / 02 ; hourahead hour : 9 ; no ancillary schedules awarded . variances detected .
 variances detected in energy import / export schedule .
 log messages :

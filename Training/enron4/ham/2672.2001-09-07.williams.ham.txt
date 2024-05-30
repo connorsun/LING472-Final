@@ -1,4 +1,4 @@
-Subject: fw : bike commute
+  fw : bike commute
 here is the bike commute challenge url - please login and enter your commute data
 http : / / westpower / bikecommute /
 the front page will give your total info as well as your teams info .

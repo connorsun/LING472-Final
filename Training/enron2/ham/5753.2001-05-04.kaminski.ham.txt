@@ -1,4 +1,4 @@
-Subject: 4 - urgent - owa please print this now .
+  4 - urgent - owa please print this now .
 current notes user :
 reasons for using outlook web access ( owa )
 1 . once your mailbox has been migrated from notes to outlook , the outlook client will be configured on your computer .

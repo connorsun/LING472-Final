@@ -1,4 +1,4 @@
-Subject: ethylene margin collar simulation model
+  ethylene margin collar simulation model
 i set up the simulation model . the margin follows a mean - reverting process .
 i seperarted the data into two category , margin > 0 . 04 and margin < 0 . 04 .
 then i estimate the mean reverting speed seperately for these two data sets .

@@ -1,4 +1,4 @@
-Subject: legal entity field changes !
+  legal entity field changes !
 regarding the legal entity field in enpower , please ignore the previous email and use the following criteria .
 enter ena for financial deals .
 enter epmi for physical deals .

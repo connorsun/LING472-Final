@@ -1,4 +1,4 @@
-Subject: derivative classes
+  derivative classes
 i discovered that clewlow and strickland have at least two books ,
 " implementing derivative models , " and " exotic options . " i gather that " exotic
 options " is the one you intend to use in your class , correct ?

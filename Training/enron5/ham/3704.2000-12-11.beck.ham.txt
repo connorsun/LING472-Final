@@ -1,4 +1,4 @@
-Subject: how do officialized books make it to credit ?
+  how do officialized books make it to credit ?
 in the past few months much focus has been put on understanding var and how
 it is calculated ( through risktrac ) . however , everyone should note that the
 credit department also receives our information . market risk and credit risk

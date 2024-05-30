@@ -1,4 +1,4 @@
-Subject: revision # 1 - enron actuals for may 18 , 2000
+  revision # 1 - enron actuals for may 18 , 2000
 teco tap 72 . 084 / hpl iferc
 . 416 / hpl gas daily
 charlie stone

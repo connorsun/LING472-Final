@@ -1,4 +1,4 @@
-Subject: unify financials update and go - forward cut - over calendar
+  unify financials update and go - forward cut - over calendar
 a quick update on a major milestone for the unify effort , the critical success factors and the plan for the gas and power deliveries .
 first , the good news - - - we rolled out the new unify financials system on monday . the rollout so far is very nearly a flawless success . only 2 small bugs have been identified and both were fixed within 1 day . the users in houston and london have commented that the system is noticeably faster . this system was delivered 4 weeks ahead of the original schedule that we published in early january . for a project of this size and complexity , this is great news and bodes well for the next 2 major milestones .
 we ' re not out of the woods yet . our biggest and most risky rollouts are a few weeks away - power and gas .

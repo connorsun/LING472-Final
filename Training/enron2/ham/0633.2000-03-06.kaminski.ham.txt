@@ -1,4 +1,4 @@
-Subject: re : financial engineering associates
+  re : financial engineering associates
 it is the special package for options with multiple assets and options on
 averages .
 - - stinson

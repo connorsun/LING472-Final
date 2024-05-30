@@ -1,4 +1,4 @@
-Subject: re : aluminium asian digital options
+  re : aluminium asian digital options
 anjam ,
 we can use moment matching to find the " effective " volatility and dividend
 yield for the average .

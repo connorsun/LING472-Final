@@ -1,4 +1,4 @@
-Subject: vince kaminski bullet points
+  vince kaminski bullet points
 * definition of price volatility
 * historical vs . implied vs . model derived volatility
 * estimation of volatility from historical data in the presence of

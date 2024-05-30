@@ -1,4 +1,4 @@
-Subject: option p & l
+  option p & l
 gentleman :
 the erms system , as you know , has an excellent capability for
 decomposing option p & l into the following components :

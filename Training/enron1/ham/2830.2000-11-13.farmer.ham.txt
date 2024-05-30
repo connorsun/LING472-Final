@@ -1,4 +1,4 @@
-Subject: revison # 1 - enron / hpl actuals for november 10 - 12 , 2000
+  revison # 1 - enron / hpl actuals for november 10 - 12 , 2000
 november 10 , 2000
 teco tap 40 . 000 / enron ; 26 . 042 / hpl iferc ; 40 . 625 / hpl gas
 daily

@@ -1,4 +1,4 @@
-Subject: enron actuals
+  enron actuals
 dec . 21 , 2000
 teco tap 0 . 000 / enron ; 18 . 750 / hpl gas daily
 dec . 22 , 2000

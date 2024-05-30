@@ -1,4 +1,4 @@
-Subject: fw : hpl imbalance payback
+  fw : hpl imbalance payback
 now that we have a transport agreement on hpl . on physical payback , i think the
 best way would be to have the imbalance transfered to our agreement and then schedule
 the payback directly to us .

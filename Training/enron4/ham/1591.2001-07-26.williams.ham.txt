@@ -1,4 +1,4 @@
-Subject: pdci / iso share ( nob ) south to north derate
+  pdci / iso share ( nob ) south to north derate
 after the day ahead market ran , the pdci ( tnob ) branch group in the ( s - n )
 direction was changed from 2084 mw to 1904 mw and the iso share ( pnob ) was
 changed from 1407 mw to 1285 mw for he ' s 1700 through 2400 for operating

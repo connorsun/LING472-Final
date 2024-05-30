@@ -1,4 +1,4 @@
-Subject: tex - mex status
+  tex - mex status
 steve , et al ,
 what is the status of tex - mex , and who are the responsible parties ? is this an ena project , and ees project , an edm project , or is is joint ?
 there has been very little communication or coordination from edm to date . word is that committments are being made by edm , and it is not certain that those committments have been shared with those who will have to fulfill them .

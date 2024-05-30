@@ -1,4 +1,4 @@
-Subject: re : improving option valuation precision in erms
+  re : improving option valuation precision in erms
 stinson ,
 zhiyong wei ' s group will need to make this change . please follow up with
 zhiyong and jeremy wong .

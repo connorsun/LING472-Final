@@ -1,4 +1,4 @@
-Subject: transport model
+  transport model
 andy ,
 the scale effect in the transport model can be explained .
 i use a european option to do the illustration .

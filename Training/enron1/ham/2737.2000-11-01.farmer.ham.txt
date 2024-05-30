@@ -1,4 +1,4 @@
-Subject: meter 980070 lonestar / hpl rusk for 10 / 99
+  meter 980070 lonestar / hpl rusk for 10 / 99
 per our conversation , we do not have any numbers with 2 zeros in front .
 980070 does not exists in mips .
 thanks .

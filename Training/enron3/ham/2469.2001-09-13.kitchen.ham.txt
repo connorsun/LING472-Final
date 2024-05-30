@@ -1,4 +1,4 @@
-Subject: re : budget allocations for cooa
+  re : budget allocations for cooa
 louise ,
 imbedded in these allocations are several functions for which eim receives 100 % dedicated resources ( legal , hr , pr , etc . ) . every 100 % dedicated resource should be presented in its own rc - - in that way it becomes " controllable " and measurable . today it is buried in an indirect allocation . this approach will isolate the truly indirect allocations and allow us to better manage the amount and appropriateness of these expenses . we plan to push this topic with respect to all allocations which hit eim from enron americas , enron networks , or enron corp . kent castleman ( eim cao ) is going to discuss this approach with wes .
 regards ,

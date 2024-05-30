@@ -1,4 +1,4 @@
-Subject: cs structure
+  cs structure
 try it
 !
 http : / / cs - structure . inr . ac . ru / a new service for searching papers in citeseer

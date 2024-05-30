@@ -1,4 +1,4 @@
-Subject: server for mailing
+  server for mailing
 dear projecthoneypot @ projecthoneypot . org :
 bulletproof dedicated server :
 clean ips

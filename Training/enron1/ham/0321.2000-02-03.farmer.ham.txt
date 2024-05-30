@@ -1,4 +1,4 @@
-Subject: fw : missing man formation
+  fw : missing man formation
 - - - - - original message - - - - -
 from : abbott , todd
 sent : wednesday , february 02 , 2000 5 : 00 pm

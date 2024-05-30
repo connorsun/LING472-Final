@@ -1,4 +1,4 @@
-Subject: re : perry gas - sap override issue
+  re : perry gas - sap override issue
 the cause of this was the timing of when sap went down . sap had a major
 system crash the day willie finaled his supply verification in unify . before
 willie went into sap to net the payable ( same day ) , sap crashed . by the time

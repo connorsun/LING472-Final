@@ -1,4 +1,4 @@
-Subject: news : aurora 5 . 2 update
+  news : aurora 5 . 2 update
 aurora version 5 . 2
 - the fastest model just got faster -
 epis announces the release of aurora , version 5 . 2

@@ -1,4 +1,4 @@
-Subject: broker client
+  broker client
 louise - -
 in response to some considerable concern voiced by presto , we are re - evaluating our broker client relationships . i ' m planning to send the following email to each of the desk heads . it is intended primarily to generate feedback from the desks , but my ultimate plan is to shut down the relationships and essentially start over with the desks making the transaction decisions instead of eol . before i launched it , i wanted to get your thoughts .
 thanks ,

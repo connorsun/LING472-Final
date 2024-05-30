@@ -1,4 +1,4 @@
-Subject: paypal - account access limited
+  paypal - account access limited
 dear kitchenman 3613 @ users . hypertoad . com ,
 we recently reviewed your account , and suspect that your paypal account may
 have been accessed by an unauthorized third party . protecting the security

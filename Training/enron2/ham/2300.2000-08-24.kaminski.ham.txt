@@ -1,4 +1,4 @@
-Subject: re : extreme value theory applied to weathet
+  re : extreme value theory applied to weathet
 vince ,
 thanks for responding to christian . i had replied earlier and said that evt
 is based on iid events , and is therefore not useful in weather , where there

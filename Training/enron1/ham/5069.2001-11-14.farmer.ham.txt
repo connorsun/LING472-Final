@@ -1,4 +1,4 @@
-Subject: gisb ir meeting notes
+  gisb ir meeting notes
 gisb ir meeting - 11 - 13 & 14 , 2001
 summary :
 finalized the transactional information ( ft , it , and capacity release ) . this information will be access via the upload of a request for download of posted datasets . majority of the two days was spent developing the data dictionary for the new producer imbalance statement . the producer imbalance statement is not a mandatory dataset . exxon was the only producer present .

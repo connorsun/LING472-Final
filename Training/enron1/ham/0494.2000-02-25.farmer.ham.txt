@@ -1,4 +1,4 @@
-Subject: eol killed deals
+  eol killed deals
 over the past several weeks , we have seen an increase in the number of
 " killed " or modified eol transactions . please remind each of your
 respective groups that this is not an option . once a customer " clicks " on a

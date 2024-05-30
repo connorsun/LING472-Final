@@ -1,4 +1,4 @@
-Subject: re : calpx prices
+  re : calpx prices
 jason ,
 i think what you may be asking for are caliso power prices . the calpx is a
 scheduling coordinator and they submit balanced schedules and bid curves to

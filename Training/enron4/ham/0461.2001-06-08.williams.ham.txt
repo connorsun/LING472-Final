@@ -1,4 +1,4 @@
-Subject: transstatus 22091 confirmed
+  transstatus 22091 confirmed
 reservation status has changed . details of the reservation are listed below :
 assignment _ ref = 22091
 seller _ code = azps

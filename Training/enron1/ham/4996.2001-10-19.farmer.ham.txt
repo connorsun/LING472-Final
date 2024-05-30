@@ -1,4 +1,4 @@
-Subject: enrononline - change to autohedge
+  enrononline - change to autohedge
 effective monday , october 22 , 2001 the following changes will be made to the autohedge functionality on enrononline .
 the volume on the hedge will now respect the minimum volume and volume increment settings on the parent product . see rules below :
 ? if the transaction volume on the child is less than half of the parent ' s minimum volume no hedge will occur .

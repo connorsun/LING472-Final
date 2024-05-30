@@ -1,4 +1,4 @@
-Subject: dpr timing
+  dpr timing
 in order to improve the timeliness of the dpr , a deadline of 12 noon
 following the trading day has been established for the receipt of all
 supporting files . please make every effort to meet this deadline or call

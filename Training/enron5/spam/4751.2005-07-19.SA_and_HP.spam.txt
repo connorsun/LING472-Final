@@ -1,4 +1,4 @@
-Subject: undeliverable mail
+  undeliverable mail
 user mailbox exceeds allowed size : info @ areejaljazeera . com
 original message follows .
 received : from mailwisconsin . com [ 61 . 24 . 220 . 29 ] by areejaljazeera . com

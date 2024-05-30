@@ -1,4 +1,4 @@
-Subject: new stack manager
+  new stack manager
 there is a new version of stack manager which is being released this evening ,
 for use on monday morning .
 changes

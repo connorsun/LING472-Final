@@ -1,4 +1,4 @@
-Subject: cilco pathing - withdrawl and hplc transport pathing
+  cilco pathing - withdrawl and hplc transport pathing
 hey guys ,
 just wanted to make known my concerns on this issue . while i agree that
 howard , robert and george needed to work on this together , i do not think

@@ -1,4 +1,4 @@
-Subject: arthur andersen model validation request
+  arthur andersen model validation request
 vince ,
 our goal is to validate that the enron global market book
 administrators are accurately using the " spread option model " as developed by

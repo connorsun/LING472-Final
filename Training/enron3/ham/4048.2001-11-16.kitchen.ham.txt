@@ -1,4 +1,4 @@
-Subject: ngx - enron - security in place .
+  ngx - enron - security in place .
 hi everybody .
 just a short note to provide an update as to where we are with all this $ $
 flying around .

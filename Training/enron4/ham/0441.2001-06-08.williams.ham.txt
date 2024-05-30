@@ -1,4 +1,4 @@
-Subject: real - time generation for saturday 6 / 9
+  real - time generation for saturday 6 / 9
 group ,
 the plan has slightly changed for submitting supplemental bids for our generators for saturday , 6 / 9 . the plan is as follows :
 only submit supplemental bids for the generators if a stage 1 emergency is called . this is due to the iso ' s ability to ramp the units up and down every 10 minutes . we don ' t want to give them the ability to do this if there is not a stage 1 , 2 , or 3 emergency .

@@ -1,4 +1,4 @@
-Subject: tape drives ( internal charset = us - ascii " >
+  tape drives ( internal charset = us - ascii " >
 t o d a y
 ' s s p e c i a
 l

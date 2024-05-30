@@ -1,4 +1,4 @@
-Subject: zero path termination in path manager
+  zero path termination in path manager
 matt / ben :
 i am responding to your request for comments on revising path manager by expanding the parameters of the path termination process to include zero volume paths on the last day of the month as a way to speed up unify response and retrieve times .
 based on my interviews of various desks including aep and calgary and our recent discussions , we find a legitimate business need to allow zero volume paths to roll from month to month ( requirements contracts on wellhead gas ) . following is a recap of what is proposed to be done regarding zero path termination .

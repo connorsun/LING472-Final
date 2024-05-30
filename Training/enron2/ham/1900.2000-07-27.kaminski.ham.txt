@@ -1,4 +1,4 @@
-Subject: sas
+  sas
 to the group :
 if you wish to use sas , there are a few simple things you need to do :
 1 ) you need to get a unix password if you don ' t already have one ( your user

@@ -1,4 +1,4 @@
-Subject: gtv weekly status update
+  gtv weekly status update
 please find below the weekly status update for the gtv project and the attached file for the updated project timeline . changes are underlined .
 gtv status meeting attendees : zhiyong wei , russ severson , jeremy wong , francis lim , nayan dattani , dave nommensen , george grant , bill fortney .
 accomplishments :

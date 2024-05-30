@@ -1,4 +1,4 @@
-Subject: schedule crawler : hourahead failure
+  schedule crawler : hourahead failure
 start date : 1 / 22 / 02 ; hourahead hour : 19 ; hourahead schedule download failed . manual intervention required .
 log messages :
 parsing file - - > > o : \ portland \ westdesk \ california scheduling \ iso final schedules \ 2002012219 . txt

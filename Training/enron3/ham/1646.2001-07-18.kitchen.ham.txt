@@ -1,4 +1,4 @@
-Subject: technical organization
+  technical organization
 louise ,
 i understand that there ' s a lot of discussion going on about the approach to organizing our technical resources . i would appreciate the opportunity to provide input to that process .
 you don ' t know much about me , but i have been with enron for over eleven years . i was hired enron power corp . as project engineering manager for the teesside project , was promoted to general manager of engineering concurrently with being teesside pem , and built up the engineering group there . i moved into front end development support and have worked on development projects in mexico , south america , the middle east and europe . a little over three years ago i was assigned to support ena efforts and i was intimately involved in the 99 peakers on . last november i transitioned my ee & cc development engineering group from ee & cc to ena as part of the technical services group .

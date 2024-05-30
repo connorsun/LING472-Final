@@ -1,4 +1,4 @@
-Subject: security alert - confirm your paypal information
+  security alert - confirm your paypal information
 fraud alert id : 0026654
 you have recieve this email because you or someone had tried to used
 your paypal account at http : / / www . springbok - computers . co . uk / . below is the

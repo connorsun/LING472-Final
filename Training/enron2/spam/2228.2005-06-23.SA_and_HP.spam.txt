@@ -1,4 +1,4 @@
-Subject: please check your account activity !
+  please check your account activity !
 dear valued royal bank of canada customer : we recently have determined
 that different computers have logged into your royal bank of canada bank account , and
 multiple password failures were present before the logons . we now need you to

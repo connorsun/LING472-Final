@@ -1,4 +1,4 @@
-Subject: security center advisory
+  security center advisory
 * * * paypal safe
 department notice * * *
 paypal fraud mediation request

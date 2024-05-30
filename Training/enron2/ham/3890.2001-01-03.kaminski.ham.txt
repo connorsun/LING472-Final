@@ -1,4 +1,4 @@
-Subject: fwd curves
+  fwd curves
 margaret ,
 the forward power and gas price curves , unlike nymex futures prices ,
 are not publicly available and are a closely guarded secret of the trading

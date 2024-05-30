@@ -1,4 +1,4 @@
-Subject: option hedging for ees
+  option hedging for ees
 eugene ,
 bob and i had a discussion about your question you raised yesterday .
 for an option writer , he has the obligation to deliver , so he hedges it with

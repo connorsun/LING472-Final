@@ -1,4 +1,4 @@
-Subject: re : convergence of the research model
+  re : convergence of the research model
 i was curious about the accuracy of our credit reserve model as a function of
 the
 number of simulations we use . this question , i think , is not so important

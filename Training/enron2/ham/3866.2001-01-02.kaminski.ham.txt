@@ -1,4 +1,4 @@
-Subject: credit exposure model
+  credit exposure model
 bill ,
 attached are the spreadsheet for the credit exposure model and the xll file .
 we have

@@ -1,4 +1,4 @@
-Subject: pdci ( tnob ) derate
+  pdci ( tnob ) derate
 after the day ahead market ran , the branch group pdci ( tnob ) ttc in the
 ( n - s ) direction was changed from 2875 mw to 1956 mw for he ' s 0700 through
 1200 for operating day 7 / 26 / 01 . the reason for the change is the celilo

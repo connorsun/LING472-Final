@@ -1,4 +1,4 @@
-Subject: ads issue : separation of oom and oos
+  ads issue : separation of oom and oos
 ads users :
 i have received numerous comments from tswg regarding concerns about the
 planned implementation of the same service type for oos and oom type

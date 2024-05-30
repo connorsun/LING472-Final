@@ -1,4 +1,4 @@
-Subject: epgt
+  epgt
 mike :
 i have terminated about 12 to 13 inactive inter pipe / internal pools effective 12 / 01 / 01 . there are several other inactive pools which i did not eliminate because
 they had balances in it .

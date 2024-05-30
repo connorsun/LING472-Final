@@ -1,4 +1,4 @@
-Subject: buy - back strategy
+  buy - back strategy
 group ,
 this is an email i sent to our generators regarding decing and buy - back strategies . please read so you know what ' s going , and can take the lead on implementing these strategies . we ' ll let you know when all the generators on board .
 thanks ,

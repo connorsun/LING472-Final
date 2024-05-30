@@ -1,4 +1,4 @@
-Subject: wti - new eol product
+  wti - new eol product
 ted ,
 enclosed is a corrected version of the historical simulation of wti
 trading . the earlier results were double counting the spread profit on

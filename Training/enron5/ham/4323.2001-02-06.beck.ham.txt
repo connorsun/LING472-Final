@@ -1,4 +1,4 @@
-Subject: distribution version of risk mgmt policy
+  distribution version of risk mgmt policy
 i ' m not sure how or if you ' re planning on distributing to the business unit
 controllers or other ops people the updated risk management policy , but i ' m
 attaching a version without the limit amounts as this is what we use to

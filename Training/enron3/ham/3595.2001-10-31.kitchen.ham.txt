@@ -1,4 +1,4 @@
-Subject: bcp seat assignments
+  bcp seat assignments
 all :
 attached you will find a list that reflects your seat assignments for business continuity planning ( bcp ) . these seats are located on the 30 th and 31 st floors of enron center north ( ecn ) . as previously communicated , you will report to these designated seats in the event of an outage in ecs .
 the exception to this is as follows :

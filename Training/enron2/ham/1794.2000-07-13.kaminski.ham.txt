@@ -1,4 +1,4 @@
-Subject: monte - carlo library
+  monte - carlo library
 stinson ,
 i have created a directory ( o : \ research \ common \ projects \ options \ mclib )
 to hold our monte - carlo models we developed in the past .

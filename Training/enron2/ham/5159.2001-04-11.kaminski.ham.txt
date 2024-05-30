@@ -1,4 +1,4 @@
-Subject: re : var
+  re : var
 vince
 thanks for the update - especially your point 3 which echoes our own
 discussion yesterday : i want to clarify responsibilities for maintenance and

@@ -1,4 +1,4 @@
-Subject: implementation of the gas message board application
+  implementation of the gas message board application
 please see the following instructions for the new messenging board . if you
 have any trouble entering into this site , please let me know . everyone
 should now be setup and ready to go . you will have to add this site to one of

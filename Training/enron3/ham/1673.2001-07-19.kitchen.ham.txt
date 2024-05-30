@@ -1,4 +1,4 @@
-Subject: re : commoditylogic launch checklist
+  re : commoditylogic launch checklist
 after reviewing calenders , etc . , i recommend the following :
 launch on august 6 th ( assuming the launch checklist is complete and we have all signoffs ) . next week is final prc for me , whalley etc . early in the week and i am out thursday and friday next week . therefore we can show the entire checklist and functionality to whalley the following week , hopefully around august lst or so , and then you can roll from test into production on that weekend and go out monday the 6 th .
 gp

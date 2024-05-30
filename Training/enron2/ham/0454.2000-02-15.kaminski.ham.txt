@@ -1,4 +1,4 @@
-Subject: re : storage model : simple issues
+  re : storage model : simple issues
 brad ,
 here are my thoughts on your concerns .
 * you needs curve inputs . this is an it job . i can help you for the curves

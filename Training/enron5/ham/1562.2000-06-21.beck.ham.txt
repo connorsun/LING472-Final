@@ -1,4 +1,4 @@
-Subject: sap id - here it is ! ! ! ! !
+  sap id - here it is ! ! ! ! !
 the following sap id and password allows you to access pay , benefit , and
 personal data via ehronline . do not provide this id / password to anyone as it
 enables modification to direct deposit account information .

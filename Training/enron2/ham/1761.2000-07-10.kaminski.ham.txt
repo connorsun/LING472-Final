@@ -1,4 +1,4 @@
-Subject: the main list should be :
+  the main list should be :
 michael farmer - ceo merchanting ( michael . farmer @ mgmcc . co . uk )
 thomas boettcher ( thomas . boettcher @ mgmcc . co . uk )
 michael hutchinson - chairman mg ltd ( michael . hutchinson @ mgltd . co . uk )

@@ -1,4 +1,4 @@
-Subject: forward obligations report issues
+  forward obligations report issues
 bill -
 following are two glitches the real time group has run across with the forward obs report . as i understand , dave poston is getting set to roll out a new version of enpower position manager , which may eventually take the place of many of the reports we run ( forward obs included ) , but in the meantime these are the problems we ' ve seen . thanks so much for your help on this !
 1 . report not reading two identical strips - when deals are extended in scheduling for the same hours , same volume , same price and same counterparty ( using the same deal number ) , the report only reads one strip . for example , on 8 / 6 / 01 , deal 718320 was previously entered as a sale to the california imbalance for 50 mw he 7 - 12 and two separate but identical strips of 25 mw for he 13 - 22 . the report read all 50 mw he 7 - 12 , but only 25 mw he 13 - 22 . i zeroed out one 25 mw strip and aggregated it with the other so the report would read all 50 mw .

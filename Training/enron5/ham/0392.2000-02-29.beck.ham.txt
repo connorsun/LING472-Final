@@ -1,4 +1,4 @@
-Subject: unify ar - - sap plans
+  unify ar - - sap plans
 the attached memo details our proposal of a week ago to use sap ar rather
 than unify ar . as of this morning , we finalized our decision to use the sap
 ar system and to turn off unify ar when sap is implemented . please direct

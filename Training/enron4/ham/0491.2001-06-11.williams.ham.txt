@@ -1,4 +1,4 @@
-Subject: missing bloomberg deals
+  missing bloomberg deals
 stephanie -
 i believe i ' ve found these trades . the first one already had bloomberg in as the broker along with the appropriate flat fee . the second deal did not have a broker or fee in it - those have been added . please let me know if you still don ' t see the trades .
 639921 ( geir solberg ) - sell aep / 25 mw / sp - 15 / $ 105 - deal flows hours 14 through 18 , and broker fee reflects $ 15 flat times 4 trades - $ 60

@@ -1,4 +1,4 @@
-Subject: re : clustering for power
+  re : clustering for power
 tanya ,
 as we discussed in the last meeting , to simulate secondary power curve we need correlated jump sizes . this is totally different from the current secondary price curve simulation which assume the perfect correlation and also totally different from the secondary gas basis curve simulation which is based on the hedging ratio .
 there are two more issues on my side i need to resolve :

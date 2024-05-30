@@ -1,4 +1,4 @@
-Subject: ecp / linden swaps
+  ecp / linden swaps
 here ' s my understanding of what has happened with the interest rate swaps :
 as i indicated earlier , the original $ 32 mm was put on for the linden 6 expansion which never occurred .
 the second swap of $ 350 mm was put on to protect the value of the cash flow from el paso assuming we would monetize the asset shortly . this hedge does appear to have been set with the el paso payment stream in mind .

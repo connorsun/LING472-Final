@@ -1,4 +1,4 @@
-Subject: oracle nt client software upgrade - manual upgrade steps
+  oracle nt client software upgrade - manual upgrade steps
 this weekend , the enron global information technologies department will be
 distributing a new version of the oracle 8 i client . due to the mobile
 environment of our user base , not all machines will receive the automatic

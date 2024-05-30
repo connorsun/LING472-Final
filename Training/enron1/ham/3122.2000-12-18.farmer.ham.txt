@@ -1,4 +1,4 @@
-Subject: enron / hpl actuals for december 15 - 17 , 2000
+  enron / hpl actuals for december 15 - 17 , 2000
 december 15 , 2000
 teco tap 106 . 250 / hpl gas daily
 ls hpl lsk ic 30 . 000 / enron

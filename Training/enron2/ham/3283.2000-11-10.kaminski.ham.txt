@@ -1,4 +1,4 @@
-Subject: re : looking for " fat tails " in time - series for ngi - socal
+  re : looking for " fat tails " in time - series for ngi - socal
 naveen ,
 i got ngi - socal prices for prompt , prompt + 1 , . . . , prompt + 59 contracts .
 for each contract i calculated moving average based on 21 log - returns as

@@ -1,4 +1,4 @@
-Subject: storage model audit
+  storage model audit
 vince ,
 enclosed please find the storage model documentation , the c - code and
 front - end spread sheet .

@@ -1,4 +1,4 @@
-Subject: hedge effectiveness test for fair value hedges
+  hedge effectiveness test for fair value hedges
 gentlemen :
 we have had favorable responses regarding the use of our volatility
 reduction method ( roger , i ' ve attached a copy of our article in case you

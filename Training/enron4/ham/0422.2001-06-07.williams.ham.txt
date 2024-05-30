@@ -1,4 +1,4 @@
-Subject: supplementals for 6 / 8 - 6 / 9
+  supplementals for 6 / 8 - 6 / 9
 group ,
 due to the recent drop in day - ahead prices , we have a few counterparties who scheduled less than their p - max generation . therefore , we need to submit supplemental bids so they will be covered in case the iso calls on their generation ( for the difference between the p - max and their prescheduled generation ) .
 additionally , if you can make an sc to sc trade with this generation please do . if you are able to do an sc trade , please make sure it ' s for at least a 4 hour run . make sure you ' re in contact with the control rooms to let them know what you ' re doing . and if you do make an sc to sc trade , don ' t forget to take out the supplemental bids for those hours .

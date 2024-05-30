@@ -1,4 +1,4 @@
-Subject: re : path manager rewrite / optimization project
+  re : path manager rewrite / optimization project
 since lisa used fuchsia , i ' ll use lavender . .
 on # 1 i would eliminate that processing . in addition , can we delete / hide / not access old paths that haven ' t been used in gas production in lets say a year or so . would this help performance ? this would also force the schedulers to path / think about the way they are pathing their transactions and not rely on old paths that may no longer be accurate ! ! we ' ve seen old bad , zero paths be re - used accidentally .
 on # 2 , the scheduling position window is the weakest link . . . . . goodbye !

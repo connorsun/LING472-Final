@@ -1,4 +1,4 @@
-Subject: failure notice
+  failure notice
 hi . this is the qmail - send program at backup - smtp - 2 . star . net . uk .
 i ' m afraid i wasn ' t able to deliver your message to the following addresses .
 this is a permanent error ; i ' ve given up . sorry it didn ' t work out .

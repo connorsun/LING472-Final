@@ -1,4 +1,4 @@
-Subject: fw : adjust function
+  fw : adjust function
 bill ,
 not sure if this is impacting us now , but i ' m sure it will in the future ! currently only the lca has the adjust function capability , and only until 1 . 7 implementation will the pse ' s have the capability to adjust . until then , i believe we need the lca ' s to co - operate with the pse ' s , otherwise this will create unwanted workload to your group and others alike . please give me some feedback . not sure if you ' ve been added to the discussion email list .
 diana

@@ -1,4 +1,4 @@
-Subject: new enrononline functionality
+  new enrononline functionality
 in order to continually develop and make improvements to the functionality of enrononline we are rolling out several changes tonight , which will be in effect on monday august 20 , 2001 . some of these changes will affect stack manager while others affect the website . a summary of these changes is listed below .
 stack manager changes
 top of stack limit orders - this feature will allow the price submitted via limit orders to be displayed on the website if their bid or offer is better than the trader ' s stack price . stack manger will list the price and the names of counterparties submitting such orders on the floated stack window . orders will be queued by price and time stamp . when a counterparty trades on a " top of stack entry " it will create back to back transactions ; one between enron and the counterparty submitting the order , and the other between enron and the counterparty clicking on the website .

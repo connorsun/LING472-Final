@@ -1,4 +1,4 @@
-Subject: oasis contract imbalance update
+  oasis contract imbalance update
 . . . . this just in . . . .
 here are our updated imbalances per contract & total :
 historical current mth cumul .

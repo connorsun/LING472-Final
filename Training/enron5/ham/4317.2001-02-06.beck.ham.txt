@@ -1,4 +1,4 @@
-Subject: re : path names , file extentions
+  re : path names , file extentions
 everything sounds good , but can we use . html instead ? . htm doesn ' t work on
 linux web servers , and it ' s best to be universal , in case they want to
 deploy in diff . contexts .

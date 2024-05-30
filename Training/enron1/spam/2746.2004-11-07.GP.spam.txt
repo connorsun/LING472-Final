@@ -1,4 +1,4 @@
-Subject: alert : spam prevention
+  alert : spam prevention
 r 3 mov 3
 sll 08
 8721 santa monica blvd # 1106

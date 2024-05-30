@@ -1,4 +1,4 @@
-Subject: re : price processes for ng
+  re : price processes for ng
 grant & vince ,
 i am sending you the results of fitting different price process models into ng
 prompt month prices . the fit is quite good for some models .

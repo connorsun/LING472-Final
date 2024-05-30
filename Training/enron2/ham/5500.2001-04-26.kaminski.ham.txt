@@ -1,4 +1,4 @@
-Subject: interview - numerical methods & finance
+  interview - numerical methods & finance
 dear tanya :
 it was a great pleasure to have met you . i very much enjoyed the interview and your insightfull questions .
 i am keenly aware that many of the methods that i discussed with you yesterday are unique , new and not reported elsewhere . this is true both about the work i did in whole yield curve interest rate pricing as well as garch . the innovations stem from the extensive numerical analysis experience that i have both in turbulence physics as well as finance . they entailed considering the problem from its raw formulation , mathematical analysis , physical interpretation , taylored numerical method development , software writting and develoment and data management .

@@ -1,4 +1,4 @@
-Subject: fw : revised mbr application
+  fw : revised mbr application
 attached is the ubs mbr application we intend to file next wed . please review and provide comments as soon as possible .
 jim
 - - - - - original message - - - - -

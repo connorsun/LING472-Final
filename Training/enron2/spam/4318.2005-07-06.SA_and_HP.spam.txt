@@ -1,4 +1,4 @@
-Subject: limited access to sensitive paypal account features
+  limited access to sensitive paypal account features
 as part of our security measures , we regularly
 screen activity in thepaypal system . we recently noticed the following issue
 on your account : we would like to ensure that your account was not

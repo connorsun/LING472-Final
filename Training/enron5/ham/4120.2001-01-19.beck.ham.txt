@@ -1,4 +1,4 @@
-Subject: var calcs .
+  var calcs .
 could you please ensure that sufficient resources are dedicated to fixing the
 current var calculation problem as soon as possible . jenny , stacey , and
 vlady are spending a significant amount of time trying to repair the var

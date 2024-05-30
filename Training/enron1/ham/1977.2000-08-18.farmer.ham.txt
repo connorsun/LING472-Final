@@ -1,4 +1,4 @@
-Subject: unify passwords will be reset under sybase 12 . 0
+  unify passwords will be reset under sybase 12 . 0
 all ,
 when we convert unify to sybase 12 . 0 , all passwords will get reset to
 " houston " . once you login to unify you will have to change you password .

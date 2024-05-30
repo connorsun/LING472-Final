@@ -1,4 +1,4 @@
-Subject: constellation delta positions
+  constellation delta positions
 jim ,
 i can provide some explaination about the spread option function in the
 exotica library .

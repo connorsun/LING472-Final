@@ -1,4 +1,4 @@
-Subject: power plant model
+  power plant model
 ken of rdi and i have gone through his model together and i have a clear idea
 of how it ' s going step by step . i believe we can almost start recoding now .
 i need a c programmer who ' s familiar with access data base .

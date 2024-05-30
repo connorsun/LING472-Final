@@ -1,4 +1,4 @@
-Subject: epe lending / day - ahead short for 8 / 15
+  epe lending / day - ahead short for 8 / 15
 per el paso lending agreement -
 we will be short a total of 50 mw on peak at palo verde tomorrow : 25 mw under stwbom , 25 mw under stsw . following are the deal numbers . you will need to purchase energy to cover this short in the real time market . remember to purchase under the same desk in which you are short megawatts . then sell , under the same desk , back to el paso at $ 0 to complete the buy - resale .
 730961 - stwbom buys epe

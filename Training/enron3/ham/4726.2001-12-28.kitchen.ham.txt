@@ -1,4 +1,4 @@
-Subject: budget # ' s
+  budget # ' s
 here is my first cut at taking the existing budget numbers to a desk - level . here are the key assumptions behind my cost allocations :
 direct costs for each group went to that group .
 gas ops was allocated to houston gas .

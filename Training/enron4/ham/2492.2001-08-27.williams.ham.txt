@@ -1,4 +1,4 @@
-Subject: incorrect ex - post prices
+  incorrect ex - post prices
 due to iso computer problems the hour ending 0600 ex - post price for
 08 - 27 - 2001 is not correct . the 10 minute interval prices for interval 5 and
 6 are also incorrect . the correct ex - post price for hour ending 0600 will

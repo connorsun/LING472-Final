@@ -1,4 +1,4 @@
-Subject: re : description of ubs deal
+  re : description of ubs deal
 louise ,
 we have information about the master user at each company ( i . e . name , address ) and we have created new customer profiles for product access based on previous profile information , but have not kept any transaction - specific information .
 dave

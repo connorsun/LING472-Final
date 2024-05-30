@@ -1,4 +1,4 @@
-Subject: mg metals : quant analysis & risk
+  mg metals : quant analysis & risk
 hi eric ,
 thanks for getting back to me - i believe there are a number of issues to
 address to ensure that the integration goes smoothly from a risk management

@@ -1,2 +1,2 @@
-Subject: str _ rndlen ( 2 - 4 ) } { extra _ time _ 4 } { word }
+  str _ rndlen ( 2 - 4 ) } { extra _ time _ 4 } { word }
 { bodyhtml }

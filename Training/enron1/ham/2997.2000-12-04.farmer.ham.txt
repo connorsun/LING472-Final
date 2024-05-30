@@ -1,4 +1,4 @@
-Subject: ces deal clean - up
+  ces deal clean - up
 i will need to make these changes in sitara . on some of these deals it will
 require me to go in and copy the ticket to a new ticket to move december 2000
 forward . these changes will be made this afternoon . if you have questions

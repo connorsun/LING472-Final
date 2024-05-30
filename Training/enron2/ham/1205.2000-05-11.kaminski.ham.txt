@@ -1,4 +1,4 @@
-Subject: linear programming software purchase
+  linear programming software purchase
 vince ,
 i ' d like to purchase some copies of the xpress lp solver for the gas storage
 optimization model . we have previously discussed the purchase of cplex , but

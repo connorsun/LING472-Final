@@ -1,4 +1,4 @@
-Subject: winter cap for entex
+  winter cap for entex
 when you get allocations for january , we need to look at daily volumes for
 transaction # 1 . towards the end of the month , entex was approaching its jan
 winter cap volume of 550 , 000 / day . if the daily volume for trans # 1 comes out

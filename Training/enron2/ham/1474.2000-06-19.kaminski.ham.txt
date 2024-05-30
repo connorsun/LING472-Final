@@ -1,4 +1,4 @@
-Subject: network design optimization .
+  network design optimization .
 fyi ,
 attached document is a specification of the network design optimization
 program . just in case you want to see how it looks like .

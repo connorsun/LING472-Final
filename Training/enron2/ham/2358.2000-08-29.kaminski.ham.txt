@@ -1,4 +1,4 @@
-Subject: joint probabilities
+  joint probabilities
 michael
 tables of joint probabilities for scenario 3 ( 8 % improvement rate during the
 regulatory cycle ) are attached .

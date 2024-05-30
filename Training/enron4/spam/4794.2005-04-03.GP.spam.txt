@@ -1,4 +1,4 @@
-Subject: message subject
+  message subject
 - - - - 45231975176744307580
 hi varou ,
 % rnd _ intro

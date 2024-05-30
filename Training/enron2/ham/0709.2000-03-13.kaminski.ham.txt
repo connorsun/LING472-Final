@@ -1,4 +1,4 @@
-Subject: daily rates - jackups
+  daily rates - jackups
 john :
 claudio put together a spreadsheet for cheking the change on a composed
 jackup index against the change on individual categories of jackups and

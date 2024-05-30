@@ -1,4 +1,4 @@
-Subject: re : stressing correlations
+  re : stressing correlations
 hi , everybody ,
 following up on our discussions on stressing correlations i made a
 spreadsheet and a dll .

@@ -1,4 +1,4 @@
-Subject: cilco pathing - withdrawl and hplc transport pathing
+  cilco pathing - withdrawl and hplc transport pathing
 cilco needs to be pathed the following way on a withdrawl day or month
 the pathing that was done for december 1999 and january 2000 worked .
 source

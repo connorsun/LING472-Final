@@ -1,4 +1,4 @@
-Subject: your approval is overdue : access request for bob . m . hall @ enron . com
+  your approval is overdue : access request for bob . m . hall @ enron . com
 this request has been pending your approval for 3 days . please click
 approval to review and act upon this request .
 request id : 000000000007399

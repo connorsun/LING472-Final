@@ -1,4 +1,4 @@
-Subject: mail system error - returned mail
+  mail system error - returned mail
 this message was undeliverable due to the following reason :
 ce message n ' a pu átre transmis pour les raisons suivantes :
 each of the following recipients was rejected by a remote mail server .

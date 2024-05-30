@@ -1,4 +1,4 @@
-Subject: re :
+  re :
 script language = javascript type = text / javascript
 ! - -
 function dopopunder ( ) {

@@ -1,4 +1,4 @@
-Subject: splash page text
+  splash page text
 ok - here ' s the sort of thing i am thinking of ( still needs kal ' s magic ) .
 i suspect you were thinking of a pop - up notice . given that we aren ' t really showing anything on enrononline at the moment , i suggest we take down enrononline entirely and replace it with a splash page which says something like the following :
 coming soon

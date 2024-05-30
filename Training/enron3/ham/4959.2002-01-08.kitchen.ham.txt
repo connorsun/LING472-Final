@@ -1,4 +1,4 @@
-Subject: research library needed for netco
+  research library needed for netco
 louise ,
 it needs source code and documentation for all exotica library functions . in addition , we need the excel add - in build environment for building the exotica dll and its help functionality . we need documentation for all models used by traders and risk managers . naveen has a list of those models . my group can help maintain those models and the exotica library and provide it expertise . i will help get a complete list of models used . following is the list of exotica functions .
 thanks

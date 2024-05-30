@@ -1,4 +1,4 @@
-Subject: re : smoothing methodology for extracting forward forward
+  re : smoothing methodology for extracting forward forward
 volatilities
 tanya ,
 the exponentials we tried earlier ( a + bexp ( - cx ) , etc , fit well but

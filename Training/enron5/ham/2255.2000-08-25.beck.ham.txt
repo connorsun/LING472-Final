@@ -1,4 +1,4 @@
-Subject: var limit usage graphs
+  var limit usage graphs
 we have created two new graphs that will be published daily along with the
 dpr .
 for each business unit or commodity group in the dpr the graphs show the var

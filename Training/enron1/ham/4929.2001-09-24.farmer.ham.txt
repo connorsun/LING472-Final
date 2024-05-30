@@ -1,4 +1,4 @@
-Subject: enrononline - stack manager changes
+  enrononline - stack manager changes
 we have made the following modifications to the enrononline applications .
 stack manager changes
 fill order enhancements - ( effective tuesday september 25 )

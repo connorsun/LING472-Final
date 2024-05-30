@@ -1,4 +1,4 @@
-Subject: entelligence website
+  entelligence website
 we ' re trying to get a demo setup - probably for lunch time one day this week .
 in the meantime , you can view the homepage at
 http : / / test . entelligence . enron . com

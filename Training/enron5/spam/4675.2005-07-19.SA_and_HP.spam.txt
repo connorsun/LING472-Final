@@ -1,4 +1,4 @@
-Subject: id = : : ffff : 220 . 184 . 181 . 141 + cdlfnvprj mail storage exceeded
+  id = : : ffff : 220 . 184 . 181 . 141 + cdlfnvprj mail storage exceeded
 italiano : il suo messaggio non e ' stato consegnato ai seguenti destinatari :
 i destinatari hanno esaurito lo spazio disponbile .
 english : your message did not reach the following recipients :

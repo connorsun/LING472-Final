@@ -1,4 +1,4 @@
-Subject: re : price process parameter esimator
+  re : price process parameter esimator
 michael , i think you mean price process parameter esimator .
 it is under o : \ research \ exotica \ prices \ reversion 97 _ trend . xls
 tanya

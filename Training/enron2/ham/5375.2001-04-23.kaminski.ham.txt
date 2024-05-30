@@ -1,4 +1,4 @@
-Subject: re : eol pricing algorithm
+  re : eol pricing algorithm
 hi bob ,
 some comments :
 1 . you request enron position after successful market order , but not after

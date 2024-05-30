@@ -1,4 +1,4 @@
-Subject: keystone shut down
+  keystone shut down
 - - - - - - - - - - - - - - - - - - - - - - forwarded by ami chokshi / corp / enron on 06 / 09 / 2000
 08 : 59 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
 " jan svajian " on 06 / 09 / 2000 09 : 01 : 43 am

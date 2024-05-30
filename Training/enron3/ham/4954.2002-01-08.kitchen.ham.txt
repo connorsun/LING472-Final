@@ -1,4 +1,4 @@
-Subject: re : transfers to netco
+  re : transfers to netco
 information regarding specific trades can not be transferred due to ( i ) confidentiality provisions with counterparties and ( ii ) with respect to power , the need for ferc approval . everyone seems to be comfortable that the identity of counterparties can be disclosed , as well as the counterparties contact information and aggregated trade data not associated with any particular counterparty . consequently , the software going to netco will be cleansed of the trade data and individual ' s data bases and files should be similarly cleansed .
 angela d . davis
 enron north america corp .

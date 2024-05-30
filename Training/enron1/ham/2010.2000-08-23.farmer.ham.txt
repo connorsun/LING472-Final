@@ -1,4 +1,4 @@
-Subject: re : meter 984132 for 1 / 16 / 99
+  re : meter 984132 for 1 / 16 / 99
 on day 5 in mops ( hpl / ena ) there is a delivery nom of 10 . 0 pathed to the ena
 201 k . on day 16 in mops ( hpl / ena ) there is not a deal ( which is strange
 because day 16 in pops references adonis ) . the deal on the 5 th was a swing

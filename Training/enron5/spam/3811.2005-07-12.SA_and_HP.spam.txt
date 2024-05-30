@@ -1,4 +1,4 @@
-Subject: spam mail warning notification ! ( attachment removal )
+  spam mail warning notification ! ( attachment removal )
 * * * * * * * * * * * * * * * * emanager notification * * * * * * * * * * * * * * * * *
 the following mail was blocked since it contains sensitive content .
 source mailbox :

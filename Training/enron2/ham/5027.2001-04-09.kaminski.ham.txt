@@ -1,4 +1,4 @@
-Subject: altos na gas model
+  altos na gas model
 kim , i know you have been interested in the development of a long term
 natural gas model for use in the ets revenue management effort . i agree that
 the ability to model various supply / demand scenarios for north america

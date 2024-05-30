@@ -1,4 +1,4 @@
-Subject: real - time generation for sunday / monday , 6 / 10 - 6 / 11
+  real - time generation for sunday / monday , 6 / 10 - 6 / 11
 group , here ' s the plan for sunday / monday :
 only submit supplemental bids for the generators if a stage 1 emergency is called . this is due to the iso ' s ability to ramp the units up and down every 10 minutes . we don ' t want to give them the ability to do this if there is not a stage 1 , 2 , or 3 emergency .
 so , please try to sell the generators excess available output as an sc to sc trade . below is their preschedule , mw ' s available , minimum price threshold , and unit id ' s . also , attached is a sheet with all the contact names and phone # ' s . please save it and reference it when dealing with the generators .

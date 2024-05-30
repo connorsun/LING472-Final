@@ -1,4 +1,4 @@
-Subject: palo verde schedules did not make it into lotus for 7 / 10
+  palo verde schedules did not make it into lotus for 7 / 10
 david ,
 i was following up on your e - mail , and found that none of our pv schedules got imported into lotus notes for 7 / 10 . i am investigating today to see why , and populating the schedules into lotus now . thanks for the head ' s up .
 cara

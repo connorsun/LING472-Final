@@ -1,4 +1,4 @@
-Subject: re : current var issues
+  re : current var issues
 here are the current issues related to var and credit models :
 1 . factor loadings ( fl ) for all " primary " commodities :
 - the code is tested ;

@@ -1,4 +1,4 @@
-Subject: meter 5892 south katy gas unit 2 - allocation
+  meter 5892 south katy gas unit 2 - allocation
 daren - - -
 i need some help with meter 5892 for september 00 due to a feedback error .
 deal 133196 ( purchase from duke on gathering contract ) is erroring out due to

@@ -1,4 +1,4 @@
-Subject: erd review
+  erd review
 here ' s a summary of our conversation so you have points to follow up with .
 general status of the database model :
 fix not represented - need to incorporate into common design and standardize

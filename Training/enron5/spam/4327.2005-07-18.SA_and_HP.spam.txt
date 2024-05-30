@@ -1,4 +1,4 @@
-Subject: textile charset = gb 2312 " >
+  textile charset = gb 2312 " >
 dear
 sir / madam ,
 we are a manufacturer of jackets , fleece , shirts , polo and t - shirts .

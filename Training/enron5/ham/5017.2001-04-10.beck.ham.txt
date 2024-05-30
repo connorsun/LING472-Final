@@ -1,4 +1,4 @@
-Subject: confidential folder to safely pass information to arthur andersen
+  confidential folder to safely pass information to arthur andersen
 we have become increasingly concerned about confidential information
 ( dpr / position info , curves , validations / stress tests , etc ) being passed to
 arthur andersen for audit purposes over the web to their arthur andersen

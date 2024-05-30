@@ -1,2 +1,2 @@
-Subject: neon
+  neon
 - bammel neon groups - fall 2001 . doc

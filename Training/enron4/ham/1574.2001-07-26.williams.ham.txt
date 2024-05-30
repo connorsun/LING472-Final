@@ -1,4 +1,4 @@
-Subject: caiso notification : revised draft iso charge matrix and statement
+  caiso notification : revised draft iso charge matrix and statement
 file specification ( vl 3 . 2 ) - ferc order implementation - to be effective
 trade date june 21 , 2001
 sc settlement contacts :

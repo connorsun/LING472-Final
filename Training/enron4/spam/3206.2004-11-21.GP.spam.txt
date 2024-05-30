@@ -1,4 +1,4 @@
-Subject: aopen black systems
+  aopen black systems
 black systems
 intel
 motherboard / 533 fsb / 256 mb ddr / 40 gb fdd / vga / sound / 10 / 100 nic /

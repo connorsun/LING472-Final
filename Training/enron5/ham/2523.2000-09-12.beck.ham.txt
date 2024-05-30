@@ -1,4 +1,4 @@
-Subject: weather
+  weather
 todd ,
 per our discussion on moving forward with the development of a weather
 trading and valuation engine . i have discussed the high level requirements

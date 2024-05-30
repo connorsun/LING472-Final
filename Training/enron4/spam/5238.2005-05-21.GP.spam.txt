@@ -1,4 +1,4 @@
-Subject: let \ " s help the orphans
+  let \ " s help the orphans
 dear friend ,
 greetings to you and your family ! this mail might come to you as a
 surprise and the temptation to ignore it as unserious could come into

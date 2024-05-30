@@ -1,4 +1,4 @@
-Subject: spanish power option pricing
+  spanish power option pricing
 hi paul / cassim ,
 further to our meeting yesterday regarding power options , that we may use to
 capture short - term volatility from regulatory caps being adhered to or

@@ -1,4 +1,4 @@
-Subject: p + option valuation model
+  p + option valuation model
 mark ,
 after recently reviewing the booking of the p + options , it is my
 understanding that these options are being valued using a standard spread

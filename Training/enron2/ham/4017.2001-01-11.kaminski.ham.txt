@@ -1,4 +1,4 @@
-Subject: re : progress
+  re : progress
 steve ,
 thanks a lot . i think that having the pseudo code will go a long way towards
 understanding how the system works and making sure that there are no

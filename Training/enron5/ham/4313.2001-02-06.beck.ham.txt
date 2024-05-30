@@ -1,4 +1,4 @@
-Subject: sec var
+  sec var
 in december we entered two swaps on enron stock to hedge out the exposure we
 created by granting options . we consider them trading securities , so i have
 included them in the spreadsheet accordingly .

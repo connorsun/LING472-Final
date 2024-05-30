@@ -1,4 +1,4 @@
-Subject: spock alert : canm is set to explode
+  spock alert : canm is set to explode
 stock pick for month of july
 get canm . ob first thing monday , this is going to explode next 2 - 3 days
 otcbb : canm - caneum inc .

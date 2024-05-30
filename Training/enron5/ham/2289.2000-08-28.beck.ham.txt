@@ -1,4 +1,4 @@
-Subject: gcp / sap / mid office systems master data issues
+  gcp / sap / mid office systems master data issues
 hello everyone ,
 please find below the issues , action taken , and action plan / proposed
 resolution for gcp / sap / mid office systems interface .

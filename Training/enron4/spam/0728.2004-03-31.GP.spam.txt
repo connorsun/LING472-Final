@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ rg _ t @ ilsp . gr ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ rg _ t @ ilsp . gr ]
 from paliourg @ iit . demokritos . gr wed mar 31 09 : 01 : 26 2004
 received : from iit . demokritos . gr ( [ 143 . 233 . 247 . 176 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with esmtp id i 2 v 61 kl 22983

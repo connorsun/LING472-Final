@@ -1,4 +1,4 @@
-Subject: vega v @ r , credit reserve model update
+  vega v @ r , credit reserve model update
 attached is a draft of the vega var implement documentation . we will discuss
 this issue tomorrow .
 index var and the vega var status :

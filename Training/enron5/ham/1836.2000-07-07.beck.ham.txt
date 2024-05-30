@@ -1,4 +1,4 @@
-Subject: re : power port calc issues
+  re : power port calc issues
 john ,
 as of wednesday , we have a resource from sun microsystems that is helping us
 isolate the problems we ' re having with the unix operating system and our

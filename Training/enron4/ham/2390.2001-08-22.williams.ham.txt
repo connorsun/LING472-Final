@@ -1,4 +1,4 @@
-Subject: curve manager
+  curve manager
 to all who use curve manager ,
 as you know , we have been experiencing technical difficulties with curve manager on terminal server . as of right now , please use curve manager locally . this application runs just as fast as on terminal server as it does locally . also , it seems to be more stable running locally . however , if you do experience difficulty running this application locally , please let me know asap .
 thanks ,

@@ -1,4 +1,4 @@
-Subject: entex estimates for 12 / 99
+  entex estimates for 12 / 99
 attached are two spreadsheets showing entex data for dec . 99 .
 jano 0 _ factor shows the difference between the estimates that should have fed
 over to pops and the actual for all meters in the meter set { 2001 - 2500 , 2540 ,

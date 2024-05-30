@@ -1,4 +1,4 @@
-Subject: new version of the eol view database - - important
+  new version of the eol view database - - important
 the e - mail i sent yesterday has an attachment that installs the new version
 of the database . it worked well in the four computers we used to test it .
 nevertheless , it failed on bob shults ' s computer ( maybe because of a slightly

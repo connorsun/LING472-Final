@@ -1,4 +1,4 @@
-Subject: re : " analytical " var implementation in risktrac
+  re : " analytical " var implementation in risktrac
 debbie ,
 i am forwarding to you a 2 page document describing implementation of
 " analytical " var in risktrac .

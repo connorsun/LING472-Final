@@ -1,4 +1,4 @@
-Subject: grep for windows .
+  grep for windows .
 folks ,
 those of you who have used unix are probably familiar with the grep command .
 it ' s used to extract lines from a set of files that contain a given input

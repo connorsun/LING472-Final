@@ -1,4 +1,4 @@
-Subject: fyi
+  fyi
 just wanted to let you know that any entex information that i have put
 together is in the following directory .
 o / logistics / entex . . . ( mostly in the reference tab )

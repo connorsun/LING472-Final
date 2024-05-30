@@ -1,4 +1,4 @@
-Subject: invoice processing
+  invoice processing
 as you are aware , the sap financial systems will be implemented for the enron
 gas pipeline group , enron north america and enron energy services companies
 on july 1 , 2000 . to effectively transfer the invoice processing from the

@@ -1,4 +1,4 @@
-Subject: terminal server 2 / curve manager
+  terminal server 2 / curve manager
 the problem reported earlier with terminal server 2 and enpower ' s curve manager have been fixed .
 michael tully
 application support , portland

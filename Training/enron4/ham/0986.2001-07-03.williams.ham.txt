@@ -1,4 +1,4 @@
-Subject: new prototype sheet for epe and epmi communication
+  new prototype sheet for epe and epmi communication
 good afternoon fred ,
 after our call , a better solution presented itself to me . the best quality of information regarding prescheduled deals done by epe would come from epe directly to enron ' s real time group .
 please see the following prototype sheet that i have made , i have checked with bill and greg , and they both agree that this format will give real time the hourly shapes that they need , with tag numbers referenced for use only if problems occurr . this sheet could be created and sent after the e - tag deadline has passed , giving epe ' s group ample time to get all the information that they need before real time would ever need it .

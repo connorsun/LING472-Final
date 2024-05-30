@@ -1,4 +1,4 @@
-Subject: change in scada server to nahou - scada 2
+  change in scada server to nahou - scada 2
 the name of the scada server has been changed from ecthou _ scadal to
 nahou - scada 2 .
 if you have a personal excel spreadsheet that obtains data from the scada

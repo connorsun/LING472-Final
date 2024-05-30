@@ -1,4 +1,4 @@
-Subject: payroll distribution
+  payroll distribution
 to : employees in the enron building , three allen center , and jefferson
 building
 the sap project team , payroll , hr and mailroom have been working to resolve

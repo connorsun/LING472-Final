@@ -1,4 +1,4 @@
-Subject: outage pricing model revision : allowing for power price vs . outage
+  outage pricing model revision : allowing for power price vs . outage
 correlation
 i have included provision for providing rank correlation between " jump
 occurrence in daily average power price " and " outage occurrence " . the model

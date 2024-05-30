@@ -1,4 +1,4 @@
-Subject: pathing procedures for buybacks
+  pathing procedures for buybacks
 to path a buyback { mop ; supply list } with an existing market deal
 { typically baseload } please follow these steps :
 theory # 1 : example ; supply deal = 5 . 0 / d supply deal = 7 . 0 / d & market deal = 10 . 0 / d

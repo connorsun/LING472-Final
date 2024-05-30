@@ -1,4 +1,4 @@
-Subject: fw : oasis posting - final implementation plan for wscc no tag / no
+  fw : oasis posting - final implementation plan for wscc no tag / no
 flow policy
 no tag , no flow
 . . . . . . . . is a no go ! ! !

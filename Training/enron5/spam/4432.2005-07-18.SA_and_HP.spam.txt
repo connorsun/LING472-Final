@@ -1,4 +1,4 @@
-Subject: undelivered mail returned to sender
+  undelivered mail returned to sender
 this is the postfix program at host dns . berrybros . net .
 i ' m sorry to have to inform you that the message returned
 below could not be delivered to one or more destinations .

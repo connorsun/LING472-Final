@@ -1,4 +1,4 @@
-Subject: broker client procedure
+  broker client procedure
 attached is a draft of the broker electronic transaction agreement which will
 be used to allow brokers to transact on behalf of their customers . please
 review the document and give me any comments . please pay particuliar

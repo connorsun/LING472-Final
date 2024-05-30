@@ -1,4 +1,4 @@
-Subject: arco outage on thursday , 8 / 23
+  arco outage on thursday , 8 / 23
 real - timers :
 arco is going down for a few hours in the morning on thursday , 8 / 23 to conduct some maintenance . they are prescheduled at 26 mw , but from he 2 - 9 , they will only be able to produce 10 mw . so , please reduce their generation schedule , and purchase 16 mw , he 2 - 9 , in spl 5 for them .
 also , for he 3 - 6 , of those 16 mw that you purchase for arco , please sell 11 mw to st west services ( deal # 744709 ) , and then sell to arco ( deal # 744714 ) for the same price that you sold to west services . the remainder just sell straight to arco . this needs to be done because there were some funky schedule adjustments by the iso . basically , the iso cut arco ' s day - ahead schedule by 11 mw for he 3 - 6 , so west services had wear that in order for the day - ahead enpower to caps report to tie out .

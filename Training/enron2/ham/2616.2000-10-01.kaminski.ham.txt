@@ -1,4 +1,4 @@
-Subject: fwd : abstract
+  fwd : abstract
 return - path :
 from : vkaminski @ aol . com
 full - name : vkaminski

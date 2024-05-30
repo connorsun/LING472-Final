@@ -1,4 +1,4 @@
-Subject: re : transport model
+  re : transport model
 ken and greg ,
 the gamma and cross gamma from our spread option appear to be correct .
 one anomaly i found is the price change as function of maturity , see attached

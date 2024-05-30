@@ -1,4 +1,4 @@
-Subject: pjm adds ny prices to edata
+  pjm adds ny prices to edata
 message sent from the pjm - customer - info mailing list at
 pjm - customer - info @ majordomo . pjm . com :
 pjm has launched a pilot version of edata which includes data from the

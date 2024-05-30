@@ -1,4 +1,4 @@
-Subject: re : alex ' s paper
+  re : alex ' s paper
 comments :
 1 . in the sentence between eqn . 3 and eqn . 4 , i think " annualized
 volatility " should replace " annualized standard deviation . "

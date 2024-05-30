@@ -1,4 +1,4 @@
-Subject: re : option pricing challenge
+  re : option pricing challenge
 zimin ,
 to generalize your initial comment , for any process ds = mu ( s , t ) * s * dt +
 sigma ( s , t ) * s * dz ,

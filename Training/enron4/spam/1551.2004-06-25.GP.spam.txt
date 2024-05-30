@@ -1,4 +1,4 @@
-Subject: new message .
+  new message .
 you have [ 1 ] new message .
 please view it at :
 your message will automatically be deleted in 5 days .

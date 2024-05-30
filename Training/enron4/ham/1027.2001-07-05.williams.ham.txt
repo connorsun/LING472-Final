@@ -1,4 +1,4 @@
-Subject: schedule cut on a " west of hatwai " problem for 7 / 06 / 01
+  schedule cut on a " west of hatwai " problem for 7 / 06 / 01
 our upstream is dynegy deal # 570332 . 1 mid c hlh
 our downstream is wwp deal # 339963 . 1
 the path :

@@ -1,4 +1,4 @@
-Subject: re : oracle tables which contain the position and curves information
+  re : oracle tables which contain the position and curves information
 for enron ' s var system
 andreas ,
 as we discussed today , i am sending you some information on how the positions

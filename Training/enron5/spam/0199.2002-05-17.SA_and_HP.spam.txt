@@ -1,4 +1,4 @@
-Subject: [ dcms - dev ] my inheritance
+  [ dcms - dev ] my inheritance
 date : may 16 , 2002 .
 email : edum @ hkem . com .
 dear sir ,

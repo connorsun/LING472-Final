@@ -1,4 +1,4 @@
-Subject: new version of the view data database
+  new version of the view data database
 hello everyone ,
 there is a new version of the database . please install by hitting your start
 button , run , type o : \ eol \ eol reporting database \ view data \ eol view database

@@ -1,4 +1,4 @@
-Subject: market maker simulation v . 2
+  market maker simulation v . 2
 stinson and vince ,
 i finished the second version of the model which deals with open to close
 trading .

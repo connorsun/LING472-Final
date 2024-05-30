@@ -1,4 +1,4 @@
-Subject: final version of the presentation
+  final version of the presentation
 george ,
 here is the presentation . i wasn ' t able to add a table showing the
 distribution of bids by fuel type for april 2000 since the database is not

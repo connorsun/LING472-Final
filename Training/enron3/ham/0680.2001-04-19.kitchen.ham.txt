@@ -1,4 +1,4 @@
-Subject: fw : tibco / w 2 k migration
+  fw : tibco / w 2 k migration
 louise ,
 with regards to the tibco compatability issue . . . . .
 if you dont want to wait for the windows 2000 migration in mid may , it appears that migrating to tibco 6 . 5 in nt 4 requires running a migration script that takes about 15 to 20 minutes , but there is a risk that there would be some interruption if the migration doesn ' t go to plan .

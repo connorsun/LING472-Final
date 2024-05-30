@@ -1,4 +1,4 @@
-Subject: message subject
+  message subject
 % rnd _ ad _ 1
 % rnd _ ad _ 2
 plus : % rnd _ all _ other _ meds

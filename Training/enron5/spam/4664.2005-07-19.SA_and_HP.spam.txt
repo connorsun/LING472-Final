@@ -1,4 +1,4 @@
-Subject: undeliverable mail
+  undeliverable mail
 user mailbox exceeds allowed message count : junkmail @ elmr - electronic - medical - records - emr . com
 original message follows .
 received : from mailwisconsin . com [ 211 . 201 . 107 . 90 ] by mail . hexagon . net

@@ -1,4 +1,4 @@
-Subject: intra - zonal congestion
+  intra - zonal congestion
 the iso is experiencing increasing loading on the pittsburg - tassaraja 230 kv
 line and requires additional decremental energy bids on the north side of
 the path and incremental energy bids on the south side of the path . to the

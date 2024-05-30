@@ -1,4 +1,4 @@
-Subject: enron mentions
+  enron mentions
 uk : u . s . enron shuts down finland office .
 reuters english news service , 11 / 06 / 01
 usa : enron shares fall below $ 10 , first time since 1992 .

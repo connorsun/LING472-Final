@@ -1,4 +1,4 @@
-Subject: start date : 1 / 4 / 02 ; hourahead hour : 21 ;
+  start date : 1 / 4 / 02 ; hourahead hour : 21 ;
 start date : 1 / 4 / 02 ; hourahead hour : 21 ; no ancillary schedules awarded . variances detected .
 variances detected in load schedule .
 log messages :

@@ -1,4 +1,4 @@
-Subject: problems w / enpower
+  problems w / enpower
 if you are trying to make changes to any deals today you may have some trouble saving your changes . if you get a prompt saying you can ' t save this deal b / c of missing legal entity data . do the following
 1 . go to the risk tabl
 2 . the second white entry portion ( from the bottom ) will allow you to enter primary legal entity

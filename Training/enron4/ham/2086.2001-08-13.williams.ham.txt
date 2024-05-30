@@ -1,4 +1,4 @@
-Subject: caiso notice - change in proxy bid calculation procedure
+  caiso notice - change in proxy bid calculation procedure
 iso market participants :
 sc settlement contacts :
 on august 8 , the iso distributed a notice that , in further compliance with

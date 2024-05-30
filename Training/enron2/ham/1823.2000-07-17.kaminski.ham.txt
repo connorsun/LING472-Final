@@ -1,4 +1,4 @@
-Subject: var methodology change
+  var methodology change
 gentlemen ,
 below is a plan of action for moving along with the var methodology change
 related to forward - forward volatility :

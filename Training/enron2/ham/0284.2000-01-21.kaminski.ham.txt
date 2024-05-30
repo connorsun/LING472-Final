@@ -1,4 +1,4 @@
-Subject: projected fund giving
+  projected fund giving
 george -
 here is one statistical method ( linear regression ) , applied to hosanna ' s fund
 giving . the method is deterministic , where contributions each sunday are

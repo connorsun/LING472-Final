@@ -1,4 +1,4 @@
-Subject: tetco / hpl ( enerfin ) meter # 986892
+  tetco / hpl ( enerfin ) meter # 986892
 step i .
 romeo : please do step 1 today , 10 / 4 / 00 .
 1 . please change the confirmed noms to zero for all contracts that have be

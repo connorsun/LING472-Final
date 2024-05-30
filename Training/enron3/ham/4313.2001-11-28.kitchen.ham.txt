@@ -1,4 +1,4 @@
-Subject: enron mentions
+  enron mentions
 wrap : dynegy terminates troubled merger pact with enron
 dow jones news service , 11 / 28 / 01
 enron ' s fall to spark volatility on pwr , natural gas mkts

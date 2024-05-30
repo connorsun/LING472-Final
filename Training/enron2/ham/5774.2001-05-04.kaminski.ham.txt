@@ -1,4 +1,4 @@
-Subject: organization announcement
+  organization announcement
 given the growth in ees it has become apparent that it is time to consolidate
 the risk functions between ees and ews . this will provide ees with the
 systems , resources and risk expertise of the wholesale energy groups

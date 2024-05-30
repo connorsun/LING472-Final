@@ -1,4 +1,4 @@
-Subject: tenaska iv 10 / 00
+  tenaska iv 10 / 00
 we have actuals . the larger of the two volumes is 1 , 395 , 000 , which is
 45 , 000 / day , so the demand rate in deal 514353 is fine . i am having a
 problem , though , with the way it is coming to settlements . it is showing up

@@ -1,4 +1,4 @@
-Subject: re : uk portfolios and books setup in risktrac
+  re : uk portfolios and books setup in risktrac
 naveen and matthew ,
 i started looking systematically through uk positions and corresponding var
 numbers in the risckrac .

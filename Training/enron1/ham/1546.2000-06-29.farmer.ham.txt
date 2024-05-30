@@ -1,4 +1,4 @@
-Subject: sitara availability - status update
+  sitara availability - status update
 we are still experiencing problems in bringing up the hardware from last
 night ' s emergency outage . as of 5 : 30 am you cannot access the application .
 every attempt is being made to rectify this problem . once the application is

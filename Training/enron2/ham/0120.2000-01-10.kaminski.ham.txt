@@ -1,4 +1,4 @@
-Subject: new basis report
+  new basis report
 bhavna :
 the basis report has been updated to cover 2000 prices . it is called
 basisnw 7 . xls and is in the erg database .

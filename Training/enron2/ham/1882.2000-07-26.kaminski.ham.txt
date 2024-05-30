@@ -1,4 +1,4 @@
-Subject: re : new powermod 97 . xls
+  re : new powermod 97 . xls
 marty :
 absolutely yes ! we are now using option functions in the exotic options
 library ( in r : \ exotica which everybody in risk management has access to )

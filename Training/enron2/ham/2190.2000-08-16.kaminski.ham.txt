@@ -1,4 +1,4 @@
-Subject: forecasting project
+  forecasting project
 per our monday meeting , the time line for completion of the " phase i "
 forecasting project ( hourly system load & next day load ) is as follows :
 aug . 15 - sept . 15 ( data collection )

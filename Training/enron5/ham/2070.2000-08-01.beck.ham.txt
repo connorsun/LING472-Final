@@ -1,4 +1,4 @@
-Subject: new hires week of 7 / 31
+  new hires week of 7 / 31
 name supervisor title start date
 michael mousteiko ( lisa peterson ) spec 7 / 31
 julie boehl ( kathy kelly ) spec 7 / 31

@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ alexandria wills ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ alexandria wills ]
 from paliourg @ iit . demokritos . gr sat apr 23 02 : 57 : 23 2005
 received : from cpe - 144 - 132 - 120 - 102 . vic . bigpond . net . au ( cpe - 144 - 132 - 120 - 102 . vic . bigpond . net . au [ 144 . 132 . 120 . 102 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id j 3 mnvjdo 7950

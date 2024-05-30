@@ -1,4 +1,4 @@
-Subject: update - supported internet email addresses
+  update - supported internet email addresses
 earlier this week , enron global technology announced the plan to decommission the use of all non - standard internet email address formats . as mentioned in the previous communication , this was the first of several communications to be sent by the enron global technology group and we will continue to provide more details in the coming weeks regarding this significant but necessary change to our email environment .
 we are working toward a cut - off date of january 14 , 2002 , at which time we will no longer support email addresses that do not follow the standard format of firstname . lastname @ enron . com ( or firstname . middleinitial . lastname @ enron . com if your name in lotus notes or outlook has a middle initial in it ) . we understand that it will take time to make the necessary arrangements to begin using the standard email address format , but it is important to begin making the change now .
 if you have questions , please send an email to enron . messaging . administration @ enron . com .

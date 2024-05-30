@@ -1,4 +1,4 @@
-Subject: it stock , steve ; mcauliffe , bob
+  it stock , steve ; mcauliffe , bob
 cc : webb , jay ; yanowski , tommy j . ; burchfield , richard
 subject : re : integration test planning / coordination mtg summary
 the aep and bridgeline deals must be investigated . there is no way the estate can support a production environment . i will be reviewing the contracts to determine our obligations and possible alternatives .

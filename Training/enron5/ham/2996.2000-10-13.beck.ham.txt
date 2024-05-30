@@ -1,4 +1,4 @@
-Subject: limit violation notification
+  limit violation notification
 in the spirit of let us make it better - not in ted is chucking blame around ,
 please consider the following issue :
 at the audit comittee meeting , jeff made the comment that the number of and

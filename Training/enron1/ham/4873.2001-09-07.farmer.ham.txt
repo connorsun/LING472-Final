@@ -1,4 +1,4 @@
-Subject: new enrononline functionality
+  new enrononline functionality
 the following additions and modifications to stack manager will be effective as of saturday september 8 , 2001 .
 stack manager modifications
 inactivate all stack - in addition to the individual activate / inactive stack buttons , there is now an inactivate all stack button . similar to the suspend all button , this button will inactivate the trader ' s stack on all active products . any existing top of stack limit orders will continue to post to the website and remain transactable . see screen shot below : inactivate all stack button on far right .

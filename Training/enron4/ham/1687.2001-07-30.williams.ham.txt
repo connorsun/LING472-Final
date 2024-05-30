@@ -1,4 +1,4 @@
-Subject: schedule will be reinstated on real time at mid - c
+  schedule will be reinstated on real time at mid - c
 the following schedules were cut during preschedule and will be reinstated on real time :
 upstream : puget , deal number # 708582
 downstream : pwx , deal number # 677686

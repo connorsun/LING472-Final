@@ -1,4 +1,4 @@
-Subject: re : backtesting
+  re : backtesting
 naveen ,
 most of these tests have been already coded . the code and the associated
 spreadsheets may have been lost inn the sands of time . please , check with

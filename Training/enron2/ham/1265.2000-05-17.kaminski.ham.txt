@@ -1,4 +1,4 @@
-Subject: two - settlement xml / csv conversion utilities
+  two - settlement xml / csv conversion utilities
 message sent from the pjm - customer - info mailing list at
 pjm - customer - info @ majordomo . pjm . com :
 the two - settlement xml / csv conversion utilities are now available for

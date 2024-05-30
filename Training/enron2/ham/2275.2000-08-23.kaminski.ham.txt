@@ -1,4 +1,4 @@
-Subject: propane prices
+  propane prices
 vince ,
 please find attached file with propane price statistics . there are two kinds
 of data : ( 1 ) prompt month futures prices , no location specified , starting

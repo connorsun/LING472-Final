@@ -1,4 +1,4 @@
-Subject: access to research project tracking database
+  access to research project tracking database
 kevin kindall brought to my attention that a number of new members in the
 group may need to get access to the research projects tracking database in
 lotus notes . access can be requested through use of the secutity resource

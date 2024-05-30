@@ -1,4 +1,4 @@
-Subject: bill -
+  bill -
 here is the info that you requested .
 geir $ 49 , 000 - no change
 ryan $ 52 , 500

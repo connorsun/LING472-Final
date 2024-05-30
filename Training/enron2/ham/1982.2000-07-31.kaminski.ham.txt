@@ -1,4 +1,4 @@
-Subject: sddp model
+  sddp model
 john ,
 attached is a copy of the sddp methodology manual , written by the
 developers . the model was developed by mario pereira , who is the proprietor

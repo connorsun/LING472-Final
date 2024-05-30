@@ -1,4 +1,4 @@
-Subject: benzene forward curve & hedge calculator
+  benzene forward curve & hedge calculator
 new market we are trying to develop in benzene swaps - possibly hedging with
 financial naphtha and physical toluene .
 rgds ,

@@ -1,4 +1,4 @@
-Subject: iso share ( pnob ) south to north derate
+  iso share ( pnob ) south to north derate
 after the day ahead market ran , the iso share ( pnob ) branch group ttc in the
 ( s - n ) direction was changed from 1285 mw to 1264 mw for he ' s 0100 through
 1200 for operating day 8 / 1 / 01 . the reason for the change is for work on the

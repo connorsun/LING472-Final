@@ -1,4 +1,4 @@
-Subject: re : research library needed for netco
+  re : research library needed for netco
 louise ,
 i spoke to a few people today . i found that most of research models have already been included in our migration plan . all models used by structuring groups and risk groups are already included . what i want to accomplish is to make sure we have the exhaustive list of models . the issue now is to get documentation for those models . i am not sure yet if the exotica library has been included in the migration plan . i will keep you updated .
 thanks

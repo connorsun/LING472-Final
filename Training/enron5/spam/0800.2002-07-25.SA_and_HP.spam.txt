@@ -1,4 +1,4 @@
-Subject: make your prints beautiful charset = windows - 1252 " >
+  make your prints beautiful charset = windows - 1252 " >
 do
 you have an inkjet or laser printer ?
 yes ? then we can save

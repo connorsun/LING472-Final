@@ -1,4 +1,4 @@
-Subject: ebs
+  ebs
 stinson ,
 the spreadsheet below shows the allocations i made for ebs .
 the numbers in magenta show percentage allocations ,

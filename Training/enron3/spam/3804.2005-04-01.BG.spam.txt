@@ -1,4 +1,4 @@
-Subject: 4 / 1 / 2005 press release linux - kernel @ vger . kernel . org
+  4 / 1 / 2005 press release linux - kernel @ vger . kernel . org
 * * * * * * * * * * * * * * * * * * * * * *
 linux - kernel @ vger . kernel . org
 * * * * * * * * * * * * * * * * * * * * * *

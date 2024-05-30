@@ -1,4 +1,4 @@
-Subject: solid hardness in minutes
+  solid hardness in minutes
 - - - - 062 dromedary { 508 god \ 4 shifty 4 sladang
 content - type : text / plain ;
 content - transfer - encoding : quoted - printable

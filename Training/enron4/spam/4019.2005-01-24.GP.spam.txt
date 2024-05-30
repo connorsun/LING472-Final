@@ -1,4 +1,4 @@
-Subject: usb charset = us - ascii " >
+  usb charset = us - ascii " >
 external fax modems
 $ 23 . 90
 $ 25 . 50

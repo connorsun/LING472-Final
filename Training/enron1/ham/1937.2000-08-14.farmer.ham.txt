@@ -1,4 +1,4 @@
-Subject: enron / hpl actuals for august 11 - 13 , 2000
+  enron / hpl actuals for august 11 - 13 , 2000
 august 11 , 2000
 teco tap 108 . 333 / hpl iferc ; 20 . 000 / enron
 ls hpl lsk ic 20 . 000 / enron

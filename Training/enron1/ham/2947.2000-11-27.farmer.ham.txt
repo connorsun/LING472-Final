@@ -1,4 +1,4 @@
-Subject: spot deals
+  spot deals
 i have created and entered the following deals in sitara as hplc - im
 wellhead purchases for december , 2000 production :
 deal # counterparty meter # volume

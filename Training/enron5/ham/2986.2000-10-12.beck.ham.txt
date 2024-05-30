@@ -1,4 +1,4 @@
-Subject: sitara / cpr availability
+  sitara / cpr availability
 the sitara system will be brought down saturday evening ( oct 14 - 8 pm
 central time ) to move the system to a new machine .
 the system will be available late saturday , at approximately 11 pm .

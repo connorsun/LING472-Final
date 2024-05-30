@@ -1,4 +1,4 @@
-Subject: storage model change : commodity delta
+  storage model change : commodity delta
 dear all ,
 i change the storage model output to its total value versus the unit value
 before .

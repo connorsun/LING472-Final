@@ -1,4 +1,4 @@
-Subject: fw : annuities for desk analysis in st - wserv book
+  fw : annuities for desk analysis in st - wserv book
 dear all ,
 regarding the email i sent below , for deal # 442038 and # 442872 , they were originally entered in oct , 2000 for st - whourly book to receive annuity amount of $ 53 , 518 . 94 from saguaro and $ 172 , 518 . 16 from las vegas cogen respectively . however , they were supposed to be for st - wserv to receive those money because at that time , st - wserv book was not set up yet . these amounts had already gone through to st - whouly book in 11 / 30 / 00 p & l as pma . in jun 2001 , the deals were changed to st - wserv book but they were not actually picked up by settlement and risk ( as the deals have already liquidated , i . e . , strip dates are passed ) . in order to reflect the change in desk , we need to put in two annuities today :
 # 683673 - st - wserv sell to st - whourly for $ 53 , 518 . 94

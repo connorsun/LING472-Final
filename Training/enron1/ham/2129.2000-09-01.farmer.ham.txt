@@ -1,4 +1,4 @@
-Subject: revision # 1 - enron / hpl actuals for august 31 , 2000
+  revision # 1 - enron / hpl actuals for august 31 , 2000
 teco tap 70 . 000 / hpl gas daily
 ls hpl lsk ic 8 . 000 / enron ; 12 . 000 / hpl gas daily
 - - - - - - - - - - - - - - - - - - - - - - forwarded by melissa jones / texas utilities on

@@ -1,4 +1,4 @@
-Subject: year - to - date closed deals
+  year - to - date closed deals
 this shows all closed deals year - to - date .
 lex carroll
 enron power marketing

@@ -1,4 +1,4 @@
-Subject: fw : saturday update
+  fw : saturday update
 hi louise ,
 just thought you should know . . .
 we ' ve kept the mixed estate / netco application development teams bound together for these migration efforts and its just remarkable how hard these people are working . most of the dba team , headed by mable tang ( oracle ) and charles brewer ( sql server ) have been putting in very long hours and last night most didn ' t go home ! ( really ) . the livelink team were here untill the small hours too .

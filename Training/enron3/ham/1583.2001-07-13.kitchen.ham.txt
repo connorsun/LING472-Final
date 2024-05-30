@@ -1,4 +1,4 @@
-Subject: fw : dwr stranded cost update
+  fw : dwr stranded cost update
 our structuring and risk groups have " entered " the executed cdwr contracts into enpower . we have included executed contracts but not letters of intent . there were a few contracts that did not have sufficient information to model . we believe that we have captured 80 percent to 90 percent of value . the attached spreadsheet shows the results by company . the data comes directly from information released by the california state treasurer . since we are using enpower to calc these deals , we can update them easily . let me know if you want anything else on this .
 - - - - - original message - - - - -
 from : comnes , alan

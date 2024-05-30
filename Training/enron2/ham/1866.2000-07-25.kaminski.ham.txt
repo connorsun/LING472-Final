@@ -1,4 +1,4 @@
-Subject: v @ r methodology for metal positions
+  v @ r methodology for metal positions
 vince -
 it seems like we should be able use mg ' s v @ r methodology as version 1 . a if
 the credit component is eliminated and the hold period is conformed to our

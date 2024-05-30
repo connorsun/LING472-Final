@@ -1,4 +1,4 @@
-Subject: physical - financial tagg
+  physical - financial tagg
 we have switched all the ena financial gas deals that should be marked as
 physical . again , we flipped these deals through a physical book so that the
 options trader could see his positions . there appear to be deals still out

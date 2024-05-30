@@ -1,4 +1,4 @@
-Subject: eol average deal count as of 09 - 13 - 00
+  eol average deal count as of 09 - 13 - 00
 the following files contain a graphical view of the average deal count per
 month by commodity for eol and otc transactions since the launch of
 enrononline . this information is for comparitive analysis only . do not

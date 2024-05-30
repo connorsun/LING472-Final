@@ -1,4 +1,4 @@
-Subject: re : programming for rdi model
+  re : programming for rdi model
 michelle ,
 the project is progressing . helen has done a great job , finding various flaws
 in the initial design ( ken ' s design ) of the access table , and has been going

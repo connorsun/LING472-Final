@@ -1,4 +1,4 @@
-Subject: update on confirmlogic
+  update on confirmlogic
 i wanted to give you a quick update on confirmlogic . . . .
 testing was done last week on the confirmlogic module . on thursday , we discussed with kathryn cordes and the confirmlogic it team the items that we had found that were " show stoppers " as far as releasing the product for beta testing . some of the major items found were the inability to properly handle basis swaps for gas and inability to display meaningful index references for power ( they were pulling in a code rather than a description of the index ) .
 the team worked on the " fixes " and migrated the code last night . today during testing , they found that the new code had actually caused problems with the fixed price and volume information , which was working previously . i talked to kathryn and she said that the were rebuilding the code . she said that someone had tested the fix last night and everything worked fine . we plan more testing in the morning .

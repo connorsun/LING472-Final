@@ -1,4 +1,4 @@
-Subject: active and dormant book list
+  active and dormant book list
 fyi -
 this is our list of active and dormant books that are in risktrac . they
 total approximately 3200 books . this list will be our starting point to help

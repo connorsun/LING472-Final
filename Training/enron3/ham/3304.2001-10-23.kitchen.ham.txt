@@ -1,4 +1,4 @@
-Subject: fw : dash spending controls team meeting
+  fw : dash spending controls team meeting
 louise ,
 we ' re making good progress with a new project expense management protocol that will provide business unit executives with higher quality information on project expenditures as well as automatically require management authorization or re - authorization at pre - determined levels of spend or dash approved limits . my plan is to have this implemented by lq 2002 .
 richard lauer from rac is leading this effort . i ' ll keep you posted on developments .

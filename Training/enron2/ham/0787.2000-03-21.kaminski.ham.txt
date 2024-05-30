@@ -1,4 +1,4 @@
-Subject: uk inflation and storage model
+  uk inflation and storage model
 hi zimin ,
 inflation :
 i am also spending a lot of time looking at short - term auto - regressive models

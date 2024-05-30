@@ -1,4 +1,4 @@
-Subject: unify performance issues are priority number one
+  unify performance issues are priority number one
 most of you are aware that unify experienced some major performance issues as
 we tried to close out the month of july . not to go into any details but
 there seemed to be a lot of smaller issues which when combined caused the

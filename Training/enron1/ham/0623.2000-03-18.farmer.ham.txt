@@ -1,4 +1,4 @@
-Subject: labor distribution report
+  labor distribution report
 daren ,
 i get a labor distribution report and show that kenneth seaman is showing as
 being active for payperiod 1 and 2 in february . if he was not here for this

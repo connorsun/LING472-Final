@@ -1,4 +1,4 @@
-Subject: model for insurance against cruel oil down side risk
+  model for insurance against cruel oil down side risk
 fred ,
 i have finished a model we talked about a few days ago .
 the option we try to price is a digital on on an asian strip .

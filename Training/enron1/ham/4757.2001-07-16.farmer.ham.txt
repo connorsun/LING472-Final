@@ -1,4 +1,4 @@
-Subject: announcing outlook web access for houston outlook users
+  announcing outlook web access for houston outlook users
 attention : houston - based outlook users
 the global messaging team is proud to announce that beginning today , monday july 16 th , houston - based enron employees that have been migrated to outlook will be able to securely access their enron email from anywhere on the web . this means that if you can get on to the internet , you can access your enron email with outlook web access ( owa ) without having to dial in to enron ' s network . please note that this is not available to those users still on lotus notes but will be available once they are migrated to outlook .
 once on the internet , type mail . enron . com in your browser address window and supply your enron network logon credentials as username and password . for example :

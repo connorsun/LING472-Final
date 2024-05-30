@@ -1,4 +1,4 @@
-Subject: returned mail : can ' t create output
+  returned mail : can ' t create output
 the original message was received at tue , 19 jul 2005 05 : 57 : 18 - 0500
 from mail @ localhost
 - - - - - the following addresses had permanent fatal errors - - - - -

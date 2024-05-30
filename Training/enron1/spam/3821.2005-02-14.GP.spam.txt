@@ -1,4 +1,4 @@
-Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ james read ]
+  bounce skel @ iit . demokritos . gr : non - member submission from [ james read ]
 from paliourg @ iit . demokritos . gr mon feb 14 20 : 53 : 42 2005
 received : from 24 - 205 - 84 - 98 . pas - eres . charterpipeline . net ( 24 - 205 - 84 - 98 . pas - eres . charterpipeline . net [ 24 . 205 . 84 . 98 ] )
 by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id jleirbmo 8618

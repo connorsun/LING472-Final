@@ -1,4 +1,4 @@
-Subject: re : the transportion model worked
+  re : the transportion model worked
 great to hear that . you are right , we should include rho ( done ) and theta
 ( to do ) for the cost term .
 zimin

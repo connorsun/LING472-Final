@@ -1,4 +1,4 @@
-Subject: fw : possible new e - tag time table
+  fw : possible new e - tag time table
 jerry dempsey has sent the attached regarding the preschedule flag in e - tag .
 what he is proposing is :
 * a revision to the timeline tables in a 3 a to enable software to make

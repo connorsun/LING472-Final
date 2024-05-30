@@ -1,4 +1,4 @@
-Subject: ljm model
+  ljm model
 ryan :
 this is the updated spreadsheet for pricing the ljm options disregarding any
 credit issues . it produces exactly the same results as before . the only

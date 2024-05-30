@@ -1,4 +1,4 @@
-Subject: stock selector
+  stock selector
 ! doctype html public - / / w 3 c / / dtd html 4 . 01 transitional / / en
 html
 head

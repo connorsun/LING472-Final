@@ -1,4 +1,4 @@
-Subject: interconnect / intercompany issues
+  interconnect / intercompany issues
 below is a list of the major items that are still outstanding on the
 interdesk / interconnect report for 1999 and 2000 that is impacting the
 intercompany cleanup for sap implementation . these issues have been

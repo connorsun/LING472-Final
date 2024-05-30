@@ -1,4 +1,4 @@
-Subject: debt trading losses
+  debt trading losses
 we have discovered two positions in the debt trading book which were not
 being marked to market . the current mark of the 2 positions results in
 approximately $ 4 . 7 million loss . the details are in :

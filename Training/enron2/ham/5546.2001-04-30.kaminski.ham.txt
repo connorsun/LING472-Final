@@ -1,4 +1,4 @@
-Subject: non - firm power curve building
+  non - firm power curve building
 hi vince ,
 amitava and i have received a request to build a non - firm power curve for
 each region from david hoog ' s double trigger folks . the objective , as they

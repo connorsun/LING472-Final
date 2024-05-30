@@ -1,4 +1,4 @@
-Subject: re : update on confirmlogic
+  re : update on confirmlogic
 kathryn has done a good job of keeping me in the loop on this . in addition , kim has consistently provided useful , objective feedback , as shown in the memo attached below .
 we will produce a stable code with the changes kim and her team have requested before the package is released outside the building .
 i have also asked kathryn to perform more testing within the cl team before asking kim and her team ( or any other clients ) to play with the changes . performing significant changes overnight , and then showing the code to clients the next morning is wonderfully responsive , but a little too risky .

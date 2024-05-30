@@ -1,4 +1,4 @@
-Subject: yesterday ' s power outage
+  yesterday ' s power outage
 as you are painfully aware , we had a power outage wednesday morning in the
 enron building . this outage was caused by localized structural failure of
 the raised floor in our 34 th floor data center . this resulted in disruption

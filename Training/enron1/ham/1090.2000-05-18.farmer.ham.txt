@@ -1,4 +1,4 @@
-Subject: entex adjustments for 5 / 00
+  entex adjustments for 5 / 00
 i have reviewed the entex actuals and adjusted gas control ' s entex factor for
 the month of may . i have found that entex estimates have been overstated by
 approximately 10 . 0 mmcf / day .

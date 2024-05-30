@@ -1,4 +1,4 @@
-Subject: new version of the eol view database
+  new version of the eol view database
 this new version of the database will run 30 % to 70 % faster ( depending on
 your computer ) .
 please delete any shortcuts to the database that you may have on your desktop

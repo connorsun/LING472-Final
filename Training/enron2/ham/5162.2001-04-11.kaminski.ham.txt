@@ -1,4 +1,4 @@
-Subject: var
+  var
 david ,
 during today ' s var coordination meeting we had a discussion of issues
 related to mapping of the forward price curves into core locations .

@@ -1,4 +1,4 @@
-Subject: trade counts by 11 : 50 am
+  trade counts by 11 : 50 am
 trade date trade cnt
 11 / 12 / 2001 4249
 11 / 11 / 2001 23
